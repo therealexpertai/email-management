@@ -42,15 +42,15 @@ CONTENT
 
 The project features the following files in the "rules" folder: 
 
-main.cr
-main.jr
-config.cr
-complaint.cr
-people.cr
-products.cr
-companies.cr
-inforequest.cr
-support.cr
+- main.cr
+- main.jr
+- config.cr
+- complaint.cr
+- people.cr
+- products.cr
+- companies.cr
+- inforequest.cr
+- support.cr
 
 The first three files are configuration files, while the rest of the files contain rules for each different node of the taxonomy and each extraction field.
 
