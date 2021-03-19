@@ -1,0 +1,3305 @@
+{
+  "header": {
+    "version": "VR4",
+    "language": "EN",
+    "startddis_flags": [
+      "2048: disable cleanparagraph",
+      "4096: token absolute position"
+    ],
+    "code": 150
+  },
+  "paragraphs": [
+    {
+      "s": [
+        0
+      ],
+      "p": 0,
+      "l": 22
+    },
+    {
+      "s": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "p": 23,
+      "l": 450
+    },
+    {
+      "s": [
+        9
+      ],
+      "p": 474,
+      "l": 10
+    },
+    {
+      "s": [
+        10
+      ],
+      "p": 485,
+      "l": 12
+    }
+  ],
+  "sentences": [
+    {
+      "g": [
+        0,
+        1,
+        2
+      ],
+      "p": 0,
+      "l": 22
+    },
+    {
+      "g": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "p": 23,
+      "l": 120
+    },
+    {
+      "g": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "p": 144,
+      "l": 31
+    },
+    {
+      "g": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "p": 176,
+      "l": 61
+    },
+    {
+      "g": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "p": 238,
+      "l": 47
+    },
+    {
+      "g": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "p": 286,
+      "l": 40
+    },
+    {
+      "g": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "p": 327,
+      "l": 69
+    },
+    {
+      "g": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "p": 397,
+      "l": 65
+    },
+    {
+      "g": [
+        65,
+        66,
+        67,
+        68
+      ],
+      "p": 463,
+      "l": 10
+    },
+    {
+      "g": [
+        69,
+        70,
+        71
+      ],
+      "p": 474,
+      "l": 10
+    },
+    {
+      "g": [
+        72,
+        73
+      ],
+      "p": 485,
+      "l": 12
+    }
+  ],
+  "groups": [
+    {
+      "gk": "NP",
+      "lt": 2,
+      "t": [
+        0,
+        1,
+        2
+      ],
+      "p": 0,
+      "l": 21
+    },
+    {
+      "gk": "NA",
+      "t": [
+        3
+      ],
+      "p": 21,
+      "l": 1
+    },
+    {
+      "gk": "CR"
+    },
+    {
+      "gk": "NP",
+      "pr": 0,
+      "pk": "INDEPENDENT",
+      "lt": 4,
+      "t": [
+        4
+      ],
+      "p": 23,
+      "l": 1
+    },
+    {
+      "gk": "VP",
+      "pr": 0,
+      "pk": "INDEPENDENT",
+      "lt": 6,
+      "t": [
+        5,
+        6
+      ],
+      "p": 25,
+      "l": 9
+    },
+    {
+      "gk": "VP",
+      "pr": 1,
+      "pk": "PURPOSE",
+      "lt": 8,
+      "t": [
+        7,
+        8
+      ],
+      "p": 35,
+      "l": 9
+    },
+    {
+      "gk": "NP",
+      "pr": 1,
+      "pk": "PURPOSE",
+      "lt": 10,
+      "t": [
+        9,
+        10
+      ],
+      "p": 45,
+      "l": 6
+    },
+    {
+      "gk": "PP",
+      "pr": 1,
+      "pk": "PURPOSE",
+      "lt": 13,
+      "t": [
+        11,
+        12,
+        13
+      ],
+      "p": 52,
+      "l": 17
+    },
+    {
+      "gk": "PP",
+      "pr": 1,
+      "pk": "PURPOSE",
+      "lt": 17,
+      "t": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "p": 70,
+      "l": 23
+    },
+    {
+      "gk": "PP",
+      "pr": 1,
+      "pk": "PURPOSE",
+      "lt": 20,
+      "t": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "p": 94,
+      "l": 17
+    },
+    {
+      "gk": "PP",
+      "pr": 1,
+      "pk": "PURPOSE",
+      "lt": 24,
+      "t": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "p": 112,
+      "l": 24
+    },
+    {
+      "gk": "PP",
+      "pr": 1,
+      "pk": "PURPOSE",
+      "lt": 28,
+      "t": [
+        28
+      ],
+      "p": 137,
+      "l": 5
+    },
+    {
+      "gk": "NA",
+      "t": [
+        29
+      ],
+      "p": 142,
+      "l": 1
+    },
+    {
+      "gk": "NP",
+      "pr": 2,
+      "pk": "INDEPENDENT",
+      "lt": 30,
+      "t": [
+        30
+      ],
+      "p": 144,
+      "l": 1
+    },
+    {
+      "gk": "VP",
+      "pr": 2,
+      "pk": "INDEPENDENT",
+      "lt": 32,
+      "t": [
+        31,
+        32
+      ],
+      "p": 146,
+      "l": 12
+    },
+    {
+      "gk": "PP",
+      "pr": 2,
+      "pk": "INDEPENDENT",
+      "lt": 35,
+      "t": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "p": 159,
+      "l": 15
+    },
+    {
+      "gk": "NA",
+      "t": [
+        37
+      ],
+      "p": 174,
+      "l": 1
+    },
+    {
+      "gk": "CP",
+      "pr": 3,
+      "pk": "TEMPORAL",
+      "t": [
+        38
+      ],
+      "p": 176,
+      "l": 4
+    },
+    {
+      "gk": "NP",
+      "pr": 3,
+      "pk": "TEMPORAL",
+      "lt": 39,
+      "t": [
+        39
+      ],
+      "p": 181,
+      "l": 1
+    },
+    {
+      "gk": "VP",
+      "pr": 3,
+      "pk": "TEMPORAL",
+      "lt": 40,
+      "t": [
+        40
+      ],
+      "p": 183,
+      "l": 2
+    },
+    {
+      "gk": "VP",
+      "pr": 4,
+      "pk": "PURPOSE",
+      "lt": 42,
+      "t": [
+        41,
+        42
+      ],
+      "p": 186,
+      "l": 9
+    },
+    {
+      "gk": "NP",
+      "pr": 4,
+      "pk": "PURPOSE",
+      "lt": 43,
+      "t": [
+        43
+      ],
+      "p": 196,
+      "l": 2
+    },
+    {
+      "gk": "NA",
+      "t": [
+        44
+      ],
+      "p": 198,
+      "l": 1
+    },
+    {
+      "gk": "NP",
+      "pr": 5,
+      "pk": "INDEPENDENT",
+      "lt": 45,
+      "t": [
+        45
+      ],
+      "p": 200,
+      "l": 2
+    },
+    {
+      "gk": "VP",
+      "pr": 5,
+      "pk": "INDEPENDENT",
+      "lt": 46,
+      "t": [
+        46
+      ],
+      "p": 203,
+      "l": 4
+    },
+    {
+      "gk": "NA",
+      "pr": 6,
+      "pk": "INDEPENDENT",
+      "t": [
+        47
+      ],
+      "p": 208,
+      "l": 1
+    },
+    {
+      "gk": "NP",
+      "pr": 6,
+      "pk": "INDEPENDENT",
+      "lt": 48,
+      "t": [
+        48
+      ],
+      "p": 209,
+      "l": 4
+    },
+    {
+      "gk": "VP",
+      "pr": 6,
+      "pk": "INDEPENDENT",
+      "lt": 49,
+      "t": [
+        49,
+        50
+      ],
+      "p": 214,
+      "l": 6
+    },
+    {
+      "gk": "PP",
+      "pr": 6,
+      "pk": "INDEPENDENT",
+      "lt": 53,
+      "t": [
+        51,
+        52,
+        53
+      ],
+      "p": 221,
+      "l": 14
+    },
+    {
+      "gk": "NA",
+      "pr": 6,
+      "pk": "INDEPENDENT",
+      "t": [
+        54
+      ],
+      "p": 235,
+      "l": 1
+    },
+    {
+      "gk": "NA",
+      "t": [
+        55
+      ],
+      "p": 236,
+      "l": 1
+    },
+    {
+      "gk": "NP",
+      "pr": 7,
+      "pk": "INDEPENDENT",
+      "lt": 56,
+      "t": [
+        56
+      ],
+      "p": 238,
+      "l": 1
+    },
+    {
+      "gk": "PN",
+      "pr": 7,
+      "pk": "INDEPENDENT",
+      "t": [
+        57,
+        58,
+        59
+      ],
+      "p": 240,
+      "l": 11
+    },
+    {
+      "gk": "RP",
+      "pr": 8,
+      "pk": "INDEPENDENT",
+      "pkex": "c",
+      "lt": 60,
+      "t": [
+        60
+      ],
+      "p": 252,
+      "l": 4
+    },
+    {
+      "gk": "RP",
+      "pr": 9,
+      "pk": "RELATIVE",
+      "lt": 61,
+      "t": [
+        61
+      ],
+      "p": 257,
+      "l": 4
+    },
+    {
+      "gk": "VP",
+      "pr": 9,
+      "pk": "RELATIVE",
+      "lt": 62,
+      "t": [
+        62
+      ],
+      "p": 262,
+      "l": 5
+    },
+    {
+      "gk": "CP",
+      "pr": 8,
+      "pk": "INDEPENDENT",
+      "pkex": "c",
+      "t": [
+        63
+      ],
+      "p": 268,
+      "l": 2
+    },
+    {
+      "gk": "DP",
+      "pr": 8,
+      "pk": "INDEPENDENT",
+      "pkex": "c",
+      "lt": 64,
+      "t": [
+        64
+      ],
+      "p": 271,
+      "l": 3
+    },
+    {
+      "gk": "VP",
+      "pr": 8,
+      "pk": "INDEPENDENT",
+      "pkex": "c",
+      "lt": 66,
+      "t": [
+        65,
+        66
+      ],
+      "p": 275,
+      "l": 6
+    },
+    {
+      "gk": "NP",
+      "pr": 8,
+      "pk": "INDEPENDENT",
+      "pkex": "c",
+      "lt": 67,
+      "t": [
+        67
+      ],
+      "p": 282,
+      "l": 2
+    },
+    {
+      "gk": "NA",
+      "t": [
+        68
+      ],
+      "p": 284,
+      "l": 1
+    },
+    {
+      "gk": "VP",
+      "pr": 10,
+      "pk": "INDEPENDENT",
+      "lt": 70,
+      "t": [
+        69,
+        70
+      ],
+      "p": 286,
+      "l": 9
+    },
+    {
+      "gk": "NP",
+      "pr": 11,
+      "pk": "CONDITIONAL",
+      "lt": 71,
+      "t": [
+        71
+      ],
+      "p": 296,
+      "l": 5
+    },
+    {
+      "gk": "VP",
+      "pr": 11,
+      "pk": "CONDITIONAL",
+      "lt": 74,
+      "t": [
+        72,
+        73,
+        74,
+        75
+      ],
+      "p": 302,
+      "l": 23
+    },
+    {
+      "gk": "NA",
+      "pr": 10,
+      "pk": "INDEPENDENT",
+      "t": [
+        76
+      ],
+      "p": 325,
+      "l": 1
+    },
+    {
+      "gk": "NP",
+      "pr": 12,
+      "pk": "INDEPENDENT",
+      "lt": 78,
+      "t": [
+        77,
+        78
+      ],
+      "p": 327,
+      "l": 9
+    },
+    {
+      "gk": "VP",
+      "pr": 12,
+      "pk": "INDEPENDENT",
+      "t": [
+        79
+      ],
+      "p": 337,
+      "l": 6
+    },
+    {
+      "gk": "NP",
+      "pr": 12,
+      "pk": "INDEPENDENT",
+      "t": [
+        80,
+        81
+      ],
+      "p": 344,
+      "l": 9
+    },
+    {
+      "gk": "NP",
+      "pr": 12,
+      "pk": "INDEPENDENT",
+      "lt": 82,
+      "t": [
+        82
+      ],
+      "p": 354,
+      "l": 4
+    },
+    {
+      "gk": "VP",
+      "pr": 12,
+      "pk": "INDEPENDENT",
+      "lt": 83,
+      "t": [
+        83,
+        84
+      ],
+      "p": 359,
+      "l": 5
+    },
+    {
+      "gk": "VP",
+      "pr": 13,
+      "pk": "PURPOSE",
+      "lt": 86,
+      "t": [
+        85,
+        86
+      ],
+      "p": 365,
+      "l": 9
+    },
+    {
+      "gk": "NP",
+      "pr": 13,
+      "pk": "PURPOSE",
+      "lt": 87,
+      "t": [
+        87
+      ],
+      "p": 375,
+      "l": 2
+    },
+    {
+      "gk": "PP",
+      "pr": 13,
+      "pk": "PURPOSE",
+      "lt": 90,
+      "t": [
+        88,
+        89,
+        90
+      ],
+      "p": 378,
+      "l": 17
+    },
+    {
+      "gk": "NA",
+      "pr": 12,
+      "pk": "INDEPENDENT",
+      "t": [
+        91
+      ],
+      "p": 395,
+      "l": 1
+    },
+    {
+      "gk": "DP",
+      "pr": 14,
+      "pk": "INDEPENDENT",
+      "lt": 92,
+      "t": [
+        92
+      ],
+      "p": 397,
+      "l": 6
+    },
+    {
+      "gk": "VP",
+      "pr": 14,
+      "pk": "INDEPENDENT",
+      "lt": 93,
+      "t": [
+        93
+      ],
+      "p": 404,
+      "l": 3
+    },
+    {
+      "gk": "NP",
+      "pr": 14,
+      "pk": "INDEPENDENT",
+      "lt": 94,
+      "t": [
+        94
+      ],
+      "p": 408,
+      "l": 2
+    },
+    {
+      "gk": "VP",
+      "pr": 15,
+      "pk": "NON_FINITE",
+      "lt": 95,
+      "t": [
+        95
+      ],
+      "p": 411,
+      "l": 4
+    },
+    {
+      "gk": "RP",
+      "pr": 16,
+      "pk": "RELATIVE",
+      "lt": 96,
+      "t": [
+        96
+      ],
+      "p": 416,
+      "l": 4
+    },
+    {
+      "gk": "NP",
+      "pr": 16,
+      "pk": "RELATIVE",
+      "lt": 97,
+      "t": [
+        97
+      ],
+      "p": 421,
+      "l": 5
+    },
+    {
+      "gk": "NP",
+      "pr": 16,
+      "pk": "RELATIVE",
+      "lt": 98,
+      "t": [
+        98
+      ],
+      "p": 427,
+      "l": 1
+    },
+    {
+      "gk": "VP",
+      "pr": 16,
+      "pk": "RELATIVE",
+      "lt": 101,
+      "t": [
+        99,
+        100,
+        101
+      ],
+      "p": 429,
+      "l": 16
+    },
+    {
+      "gk": "VP",
+      "pr": 17,
+      "pk": "PURPOSE",
+      "lt": 103,
+      "t": [
+        102,
+        103
+      ],
+      "p": 446,
+      "l": 9
+    },
+    {
+      "gk": "NP",
+      "pr": 17,
+      "pk": "PURPOSE",
+      "lt": 104,
+      "t": [
+        104
+      ],
+      "p": 456,
+      "l": 5
+    },
+    {
+      "gk": "NA",
+      "t": [
+        105
+      ],
+      "p": 461,
+      "l": 1
+    },
+    {
+      "gk": "VP",
+      "pr": 18,
+      "pk": "INDEPENDENT",
+      "lt": 106,
+      "t": [
+        106
+      ],
+      "p": 463,
+      "l": 5
+    },
+    {
+      "gk": "NP",
+      "pr": 18,
+      "pk": "INDEPENDENT",
+      "t": [
+        107
+      ],
+      "p": 469,
+      "l": 3
+    },
+    {
+      "gk": "NA",
+      "pr": 18,
+      "pk": "INDEPENDENT",
+      "t": [
+        108
+      ],
+      "p": 472,
+      "l": 1
+    },
+    {
+      "gk": "CR"
+    },
+    {
+      "gk": "DP",
+      "lt": 109,
+      "t": [
+        109
+      ],
+      "p": 474,
+      "l": 9
+    },
+    {
+      "gk": "NA",
+      "t": [
+        110
+      ],
+      "p": 483,
+      "l": 1
+    },
+    {
+      "gk": "CR"
+    },
+    {
+      "gk": "NP",
+      "lt": 111,
+      "t": [
+        111,
+        112,
+        113
+      ],
+      "p": 485,
+      "l": 12
+    },
+    {
+      "gk": "CR"
+    }
+  ],
+  "tokens": [
+    {
+      "p": 0,
+      "l": 4,
+      "gt": "ADJ",
+      "gd": "IIQB",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined",
+        "adj_type": "Q",
+        "adj_grade": "base"
+      },
+      "bf": "dear",
+      "bfid": 345763,
+      "syn": 82959,
+      "esyn": [
+        89519
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 5,
+      "l": 8,
+      "gt": "NOU",
+      "gd": "IS",
+      "ga": {
+        "gender": "undefined",
+        "number": "singular"
+      },
+      "bf": "customer",
+      "bfid": 343712,
+      "syn": 42244,
+      "esyn": [
+        44585
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 14,
+      "l": 7,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "support",
+      "bfid": 486055,
+      "syn": 4692,
+      "esyn": [
+        4983
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 21,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": ",",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 23,
+      "l": 1,
+      "gt": "PRO",
+      "gd": "PS",
+      "ga": {
+        "pro_type": "P",
+        "pro_subtype": "S"
+      },
+      "bf": "I",
+      "bfid": 117932,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 25,
+      "l": 2,
+      "gt": "AUX",
+      "gd": "_",
+      "ga": {},
+      "bf": "am",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 28,
+      "l": 6,
+      "gt": "VER",
+      "gd": "AC1_",
+      "ga": {
+        "tense": "simple present",
+        "cont": "continuous",
+        "person": "1"
+      },
+      "bf": "try",
+      "bfid": 498741,
+      "syn": 72237,
+      "esyn": [
+        77086
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 35,
+      "l": 2,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "to",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 38,
+      "l": 6,
+      "gt": "VER",
+      "gd": "IN__",
+      "ga": {
+        "tense": "undefined",
+        "cont": "not continuous"
+      },
+      "bf": "import",
+      "bfid": 396012,
+      "syn": 133539,
+      "esyn": [
+        162634
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 45,
+      "l": 1,
+      "gt": "ART",
+      "gd": "",
+      "bf": "a",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 47,
+      "l": 4,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "file",
+      "bfid": 368532,
+      "syn": 28642,
+      "esyn": [
+        100082753,
+        29955
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 52,
+      "l": 4,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "into",
+      "bfid": 400936,
+      "syn": 182184,
+      "esyn": [
+        217535
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 57,
+      "l": 3,
+      "gt": "ADJ",
+      "gd": "IIPB",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined",
+        "adj_type": "P",
+        "adj_grade": "base"
+      },
+      "bf": "our",
+      "bfid": 435042,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 61,
+      "l": 8,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "database",
+      "bfid": 345217,
+      "syn": 29193,
+      "esyn": [
+        100008513,
+        30541
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 70,
+      "l": 4,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "with",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 75,
+      "l": 3,
+      "gt": "ART",
+      "gd": "",
+      "bf": "the",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 79,
+      "l": 6,
+      "gt": "ADJ",
+      "gd": "IIQB",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined",
+        "adj_type": "Q",
+        "adj_grade": "base"
+      },
+      "bf": "latest",
+      "bfid": 407376,
+      "syn": 83381,
+      "esyn": [
+        89969
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 86,
+      "l": 7,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "version",
+      "bfid": 506886,
+      "syn": 102005,
+      "esyn": [
+        126157
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 94,
+      "l": 2,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "of",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 97,
+      "l": 3,
+      "gt": "ART",
+      "gd": "",
+      "bf": "the",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 101,
+      "l": 6,
+      "gt": "NPR.PRD",
+      "gd": "NI",
+      "ga": {
+        "gender": "neutral",
+        "number": "undefined"
+      },
+      "bf": "Synthe",
+      "bfid": -1,
+      "syn": -436164,
+      "vdad": 28899,
+      "evdad": [
+        100166142,
+        30226
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 108,
+      "l": 3,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "app",
+      "bfid": 304067,
+      "syn": 28899,
+      "esyn": [
+        100166142,
+        30226
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 112,
+      "l": 2,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "of",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 115,
+      "l": 3,
+      "gt": "ART",
+      "gd": "",
+      "bf": "the",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 119,
+      "l": 17,
+      "gt": "NPR.COM",
+      "gd": "II",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined"
+      },
+      "bf": "Stay Organized Co",
+      "bfid": -1,
+      "syn": -436165,
+      "vdad": 35730,
+      "evdad": [
+        104830453,
+        37475
+      ],
+      "it": 1,
+      "ia": 0,
+      "pos": "_"
+    },
+    {
+      "p": 119,
+      "l": 4,
+      "gt": "NOU",
+      "gd": "II",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined"
+      },
+      "bfid": -1,
+      "it": 0,
+      "ia": 1
+    },
+    {
+      "p": 124,
+      "l": 9,
+      "gt": "NOU",
+      "gd": "II",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined"
+      },
+      "bfid": -1,
+      "it": 0,
+      "ia": 1
+    },
+    {
+      "p": 134,
+      "l": 2,
+      "gt": "NOU",
+      "gd": "II",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined"
+      },
+      "bfid": -1,
+      "it": 0,
+      "ia": 1
+    },
+    {
+      "p": 137,
+      "l": 5,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "suite",
+      "bfid": 485077,
+      "syn": 128727,
+      "esyn": [
+        101143070,
+        157215
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 142,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": ".",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 144,
+      "l": 1,
+      "gt": "PRO",
+      "gd": "PS",
+      "ga": {
+        "pro_type": "P",
+        "pro_subtype": "S"
+      },
+      "bf": "I",
+      "bfid": 117932,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 146,
+      "l": 2,
+      "gt": "AUX",
+      "gd": "_",
+      "ga": {},
+      "bf": "am",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 149,
+      "l": 9,
+      "gt": "VER",
+      "gd": "AC1_",
+      "ga": {
+        "tense": "simple present",
+        "cont": "continuous",
+        "person": "1"
+      },
+      "bf": "operate",
+      "bfid": 433200,
+      "syn": 63190,
+      "esyn": [
+        66398
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 159,
+      "l": 2,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "on",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 162,
+      "l": 1,
+      "gt": "ART",
+      "gd": "",
+      "bf": "a",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 164,
+      "l": 7,
+      "gt": "NPR.PRD",
+      "gd": "NP",
+      "ga": {
+        "gender": "neutral",
+        "number": "plural"
+      },
+      "bf": "Windows",
+      "bfid": 284908,
+      "syn": 99007,
+      "esyn": [
+        100001406,
+        122602
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 172,
+      "l": 2,
+      "gt": "NOU",
+      "gd": "NI",
+      "ga": {
+        "gender": "neutral",
+        "number": "undefined"
+      },
+      "bf": "10",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 174,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": ".",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 176,
+      "l": 4,
+      "gt": "CON",
+      "gd": "S",
+      "ga": {
+        "con_type": "S"
+      },
+      "bf": "when",
+      "bfid": 511299,
+      "syn": 160221,
+      "esyn": [
+        193873
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 181,
+      "l": 1,
+      "gt": "PRO",
+      "gd": "PS",
+      "ga": {
+        "pro_type": "P",
+        "pro_subtype": "S"
+      },
+      "bf": "I",
+      "bfid": 117932,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 183,
+      "l": 2,
+      "gt": "VER",
+      "gd": "AN1_",
+      "ga": {
+        "tense": "simple present",
+        "cont": "not continuous",
+        "person": "1"
+      },
+      "bf": "go",
+      "bfid": 382162,
+      "syn": 69725,
+      "esyn": [
+        74065
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 186,
+      "l": 2,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "to",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 189,
+      "l": 6,
+      "gt": "VER",
+      "gd": "IN__",
+      "ga": {
+        "tense": "undefined",
+        "cont": "not continuous"
+      },
+      "bf": "import",
+      "bfid": 396012,
+      "syn": 133539,
+      "esyn": [
+        162634
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 196,
+      "l": 2,
+      "gt": "PRO",
+      "gd": "PS",
+      "ga": {
+        "pro_type": "P",
+        "pro_subtype": "S"
+      },
+      "bf": "it",
+      "bfid": -1,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 198,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": ",",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 200,
+      "l": 2,
+      "gt": "PRO",
+      "gd": "PS",
+      "ga": {
+        "pro_type": "P",
+        "pro_subtype": "S"
+      },
+      "bf": "it",
+      "bfid": -1,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 203,
+      "l": 4,
+      "gt": "VER",
+      "gd": "AN3_",
+      "ga": {
+        "tense": "simple present",
+        "cont": "not continuous",
+        "person": "3"
+      },
+      "bf": "say",
+      "bfid": 465746,
+      "syn": 137508,
+      "esyn": [
+        167507
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 208,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": "\"",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 209,
+      "l": 4,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "file",
+      "bfid": 368532,
+      "syn": 28642,
+      "esyn": [
+        100082753,
+        29955
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 214,
+      "l": 2,
+      "gt": "VER",
+      "gd": "AN34",
+      "ga": {
+        "tense": "simple present",
+        "cont": "not continuous",
+        "person": "3",
+        "form": "4"
+      },
+      "bf": "be",
+      "bfid": 311875,
+      "syn": 72677,
+      "esyn": [
+        77611
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 217,
+      "l": 3,
+      "gt": "ADV",
+      "gd": "_",
+      "ga": {},
+      "bf": "not",
+      "bfid": 430013,
+      "syn": 159490,
+      "esyn": [
+        193096
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 221,
+      "l": 2,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "in",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 224,
+      "l": 6,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "import",
+      "bfid": 396012,
+      "syn": 16547,
+      "esyn": [
+        100062955,
+        17290
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 231,
+      "l": 4,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "form",
+      "bfid": 372420,
+      "syn": 26451,
+      "esyn": [
+        27646
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 235,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": "\"",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 236,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": ".",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 238,
+      "l": 1,
+      "gt": "PRO",
+      "gd": "PS",
+      "ga": {
+        "pro_type": "P",
+        "pro_subtype": "S"
+      },
+      "bf": "I",
+      "bfid": 117932,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 240,
+      "l": 2,
+      "gt": "VER",
+      "gd": "AN14",
+      "ga": {
+        "tense": "simple present",
+        "cont": "not continuous",
+        "person": "1",
+        "form": "4"
+      },
+      "bf": "be",
+      "bfid": 311875,
+      "syn": 72504,
+      "esyn": [
+        77408
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 243,
+      "l": 3,
+      "gt": "ADV",
+      "gd": "_",
+      "ga": {},
+      "bf": "not",
+      "bfid": 430013,
+      "syn": 159490,
+      "esyn": [
+        193096
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 247,
+      "l": 4,
+      "gt": "ADJ",
+      "gd": "IIQB",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined",
+        "adj_type": "Q",
+        "adj_grade": "base"
+      },
+      "bf": "sure",
+      "bfid": 486191,
+      "syn": 77205,
+      "esyn": [
+        83220
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 252,
+      "l": 4,
+      "gt": "PRO",
+      "gd": "IO",
+      "ga": {
+        "pro_type": "I",
+        "pro_subtype": "O"
+      },
+      "bf": "what",
+      "bfid": 511175,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 257,
+      "l": 4,
+      "gt": "PRO",
+      "gd": "RO",
+      "ga": {
+        "pro_type": "R",
+        "pro_subtype": "O"
+      },
+      "bf": "that",
+      "bfid": 492109,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 262,
+      "l": 5,
+      "gt": "VER",
+      "gd": "AN3_",
+      "ga": {
+        "tense": "simple present",
+        "cont": "not continuous",
+        "person": "3"
+      },
+      "bf": "mean",
+      "bfid": 416931,
+      "syn": 66216,
+      "esyn": [
+        69932
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 268,
+      "l": 2,
+      "gt": "CON",
+      "gd": "C",
+      "ga": {
+        "con_type": "C"
+      },
+      "bf": "or",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 271,
+      "l": 3,
+      "gt": "ADV",
+      "gd": "Q",
+      "ga": {
+        "adv_type": "Q"
+      },
+      "bf": "how",
+      "bfid": 392514,
+      "syn": 160227,
+      "esyn": [
+        193881
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 275,
+      "l": 2,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "to",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 278,
+      "l": 3,
+      "gt": "VER",
+      "gd": "IN__",
+      "ga": {
+        "tense": "undefined",
+        "cont": "not continuous"
+      },
+      "bf": "fix",
+      "bfid": 369717,
+      "syn": 63817,
+      "esyn": [
+        67112
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 282,
+      "l": 2,
+      "gt": "PRO",
+      "gd": "PS",
+      "ga": {
+        "pro_type": "P",
+        "pro_subtype": "S"
+      },
+      "bf": "it",
+      "bfid": -1,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 284,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": ".",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 286,
+      "l": 3,
+      "gt": "AUX",
+      "gd": "_",
+      "ga": {},
+      "bf": "Can",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 290,
+      "l": 5,
+      "gt": "VER",
+      "gd": "____",
+      "ga": {},
+      "bf": "excel",
+      "bfid": 363149,
+      "syn": 127887,
+      "esyn": [
+        156251
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 296,
+      "l": 5,
+      "gt": "NOU",
+      "gd": "NP",
+      "ga": {
+        "gender": "neutral",
+        "number": "plural"
+      },
+      "bf": "file",
+      "bfid": 368532,
+      "syn": 28642,
+      "esyn": [
+        100082753,
+        29955
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 302,
+      "l": 3,
+      "gt": "ADV",
+      "gd": "_",
+      "ga": {},
+      "bf": "not",
+      "bfid": 430013,
+      "syn": 159490,
+      "esyn": [
+        193096
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 306,
+      "l": 2,
+      "gt": "AUX",
+      "gd": "_",
+      "ga": {},
+      "bf": "be",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 309,
+      "l": 8,
+      "gt": "VER",
+      "gd": "AN65",
+      "ga": {
+        "tense": "simple present",
+        "cont": "not continuous",
+        "person": "6",
+        "form": "5"
+      },
+      "bf": "import",
+      "bfid": 396012,
+      "syn": 133539,
+      "esyn": [
+        162634
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 318,
+      "l": 7,
+      "gt": "ADV",
+      "gd": "_",
+      "ga": {},
+      "bf": "anymore",
+      "bfid": 303691,
+      "syn": 159693,
+      "esyn": [
+        193310
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 325,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": "?",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 327,
+      "l": 4,
+      "gt": "ADJ",
+      "gd": "IIQB",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined",
+        "adj_type": "Q",
+        "adj_grade": "base"
+      },
+      "bf": "what",
+      "bfid": 511175,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 332,
+      "l": 4,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "form",
+      "bfid": 372420,
+      "syn": 28507,
+      "esyn": [
+        101335296,
+        29812
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 337,
+      "l": 6,
+      "gt": "AUX",
+      "gd": "_",
+      "ga": {},
+      "bf": "should",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 344,
+      "l": 3,
+      "gt": "ART",
+      "gd": "",
+      "bf": "the",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 348,
+      "l": 5,
+      "gt": "NOU",
+      "gd": "II",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined"
+      },
+      "bf": "excel",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 354,
+      "l": 4,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "file",
+      "bfid": 368532,
+      "syn": 28642,
+      "esyn": [
+        100082753,
+        29955
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 359,
+      "l": 2,
+      "gt": "VER",
+      "gd": "HN3_",
+      "ga": {
+        "tense": "conditional",
+        "cont": "not continuous",
+        "person": "3"
+      },
+      "bf": "be",
+      "bfid": 311875,
+      "syn": 72677,
+      "esyn": [
+        77611
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 362,
+      "l": 2,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "in",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 365,
+      "l": 2,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "to",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 368,
+      "l": 6,
+      "gt": "VER",
+      "gd": "IN__",
+      "ga": {
+        "tense": "undefined",
+        "cont": "not continuous"
+      },
+      "bf": "upload",
+      "bfid": 504013,
+      "syn": 71197,
+      "esyn": [
+        75828
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 375,
+      "l": 2,
+      "gt": "PRO",
+      "gd": "PS",
+      "ga": {
+        "pro_type": "P",
+        "pro_subtype": "S"
+      },
+      "bf": "it",
+      "bfid": -1,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 378,
+      "l": 4,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "into",
+      "bfid": 400936,
+      "syn": 182184,
+      "esyn": [
+        217535
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 383,
+      "l": 3,
+      "gt": "ART",
+      "gd": "",
+      "bf": "the",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 387,
+      "l": 8,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "database",
+      "bfid": 345217,
+      "syn": 29193,
+      "esyn": [
+        100008513,
+        30541
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 395,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": "?",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 397,
+      "l": 6,
+      "gt": "ADV",
+      "gd": "_",
+      "ga": {},
+      "bf": "please",
+      "bfid": 445205,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 404,
+      "l": 3,
+      "gt": "VER",
+      "gd": "AN__",
+      "ga": {
+        "tense": "simple present",
+        "cont": "not continuous"
+      },
+      "bf": "let",
+      "bfid": 408876,
+      "syn": 71842,
+      "esyn": [
+        76611
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 408,
+      "l": 2,
+      "gt": "PRO",
+      "gd": "PB",
+      "ga": {
+        "pro_type": "P",
+        "pro_subtype": "B"
+      },
+      "bf": "me",
+      "bfid": 416860,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 411,
+      "l": 4,
+      "gt": "VER",
+      "gd": "IN__",
+      "ga": {
+        "tense": "undefined",
+        "cont": "not continuous"
+      },
+      "bf": "know",
+      "bfid": 405575,
+      "syn": 65067,
+      "esyn": [
+        68556
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 416,
+      "l": 4,
+      "gt": "PRO",
+      "gd": "IO",
+      "ga": {
+        "pro_type": "I",
+        "pro_subtype": "O"
+      },
+      "bf": "what",
+      "bfid": 511175,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 421,
+      "l": 5,
+      "gt": "NOU",
+      "gd": "NP",
+      "ga": {
+        "gender": "neutral",
+        "number": "plural"
+      },
+      "bf": "step",
+      "bfid": 481463,
+      "syn": 20016,
+      "esyn": [
+        100012511,
+        20926
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 427,
+      "l": 1,
+      "gt": "PRO",
+      "gd": "PS",
+      "ga": {
+        "pro_type": "P",
+        "pro_subtype": "S"
+      },
+      "bf": "I",
+      "bfid": 117932,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 429,
+      "l": 6,
+      "gt": "AUX",
+      "gd": "_",
+      "ga": {},
+      "bf": "should",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 436,
+      "l": 2,
+      "gt": "AUX",
+      "gd": "_",
+      "ga": {},
+      "bf": "be",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 439,
+      "l": 6,
+      "gt": "VER",
+      "gd": "HN1_",
+      "ga": {
+        "tense": "conditional",
+        "cont": "not continuous",
+        "person": "1"
+      },
+      "bf": "take",
+      "bfid": 489030,
+      "syn": 71112,
+      "esyn": [
+        75727
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 446,
+      "l": 2,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "to",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 449,
+      "l": 6,
+      "gt": "VER",
+      "gd": "IN__",
+      "ga": {
+        "tense": "undefined",
+        "cont": "not continuous"
+      },
+      "bf": "upload",
+      "bfid": 504013,
+      "syn": 71197,
+      "esyn": [
+        75828
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 456,
+      "l": 5,
+      "gt": "NOU",
+      "gd": "NP",
+      "ga": {
+        "gender": "neutral",
+        "number": "plural"
+      },
+      "bf": "file",
+      "bfid": 368532,
+      "syn": 28642,
+      "esyn": [
+        100082753,
+        29955
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 461,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": ".",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 463,
+      "l": 5,
+      "gt": "VER",
+      "gd": "AN__",
+      "ga": {
+        "tense": "simple present",
+        "cont": "not continuous"
+      },
+      "bf": "thank",
+      "bfid": 492090,
+      "syn": 66074,
+      "esyn": [
+        69758
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 469,
+      "l": 3,
+      "gt": "PRO",
+      "gd": "PS",
+      "ga": {
+        "pro_type": "P",
+        "pro_subtype": "S"
+      },
+      "bf": "you",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 472,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": "!",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 474,
+      "l": 9,
+      "gt": "ADV",
+      "gd": "M",
+      "ga": {
+        "adv_type": "M"
+      },
+      "bf": "sincerely",
+      "bfid": 473185,
+      "syn": 159356,
+      "esyn": [
+        192955
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 483,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": ",",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 485,
+      "l": 12,
+      "gt": "NPR.NPH",
+      "gd": "MS",
+      "ga": {
+        "gender": "male",
+        "number": "singular"
+      },
+      "bf": "Casey Miller",
+      "bfid": -1,
+      "syn": -436166,
+      "vdad": 73282,
+      "evdad": [
+        100215627,
+        78452
+      ],
+      "it": 1,
+      "ia": 0,
+      "pos": "_"
+    },
+    {
+      "p": 485,
+      "l": 5,
+      "gt": "NPR.NPH",
+      "gd": "MS",
+      "ga": {
+        "gender": "male",
+        "number": "singular"
+      },
+      "bf": "Casey",
+      "bfid": 44802,
+      "syn": 292899,
+      "esyn": [
+        378866
+      ],
+      "it": 0,
+      "ia": 1
+    },
+    {
+      "p": 491,
+      "l": 6,
+      "gt": "NPR.NPH",
+      "gd": "MS",
+      "ga": {
+        "gender": "male",
+        "number": "singular"
+      },
+      "bf": "Miller",
+      "bfid": 172276,
+      "syn": -1,
+      "it": 0,
+      "ia": 1
+    }
+  ],
+  "domains": [
+    {
+      "name": "computer science",
+      "r": 15,
+      "s": 8.0,
+      "m": 1
+    },
+    {
+      "name": "software",
+      "r": 1,
+      "s": 5.3,
+      "m": 1
+    },
+    {
+      "name": "database",
+      "r": 1,
+      "s": 0.9,
+      "m": 0
+    },
+    {
+      "name": "operating systems",
+      "r": 1,
+      "s": 0.3,
+      "m": 0
+    },
+    {
+      "name": "trade",
+      "r": 1,
+      "s": 0.1,
+      "m": 0
+    }
+  ],
+  "mainsentences": [
+    {
+      "id": 1,
+      "text": "I am trying to import a file into our database with the latest version of the Synthe app of the Stay Organized Co suite.",
+      "s": 47.8
+    },
+    {
+      "id": 6,
+      "text": "What form should the excel file be in to upload it into the database?",
+      "s": 15.199999
+    },
+    {
+      "id": 3,
+      "text": "When I go to import it, it says \"file is not in import form\".",
+      "s": 11.1
+    }
+  ],
+  "maingroups": [
+    {
+      "text": "Synthe app",
+      "s": 29.0,
+      "pl": [
+        [
+          101,
+          10
+        ]
+      ]
+    },
+    {
+      "text": "excel file",
+      "s": 20.6,
+      "pl": [
+        [
+          348,
+          10
+        ]
+      ]
+    },
+    {
+      "text": "customer support",
+      "s": 10.399999,
+      "pl": [
+        [
+          5,
+          16
+        ]
+      ]
+    },
+    {
+      "text": "Windows 10",
+      "s": 7.4,
+      "pl": [
+        [
+          164,
+          10
+        ]
+      ]
+    },
+    {
+      "text": "import form",
+      "s": 7.3,
+      "pl": [
+        [
+          224,
+          11
+        ]
+      ]
+    }
+  ],
+  "mainlemmas": [
+    {
+      "text": "file",
+      "s": 24.2
+    },
+    {
+      "text": "database",
+      "s": 12.7
+    },
+    {
+      "text": "app",
+      "s": 9.1
+    },
+    {
+      "text": "Synthe",
+      "s": 8.5
+    },
+    {
+      "text": "suite",
+      "s": 8.1
+    },
+    {
+      "text": "version",
+      "s": 7.4
+    },
+    {
+      "text": "Stay Organized Co",
+      "s": 7.2
+    }
+  ],
+  "mainsyncons": [
+    {
+      "syn": 28642,
+      "esyn": [
+        100082753
+      ],
+      "s": 24.0
+    },
+    {
+      "syn": 29193,
+      "esyn": [
+        100008513
+      ],
+      "s": 12.8
+    },
+    {
+      "syn": 28899,
+      "esyn": [
+        100166142
+      ],
+      "s": 8.9
+    },
+    {
+      "syn": 128727,
+      "esyn": [
+        101143070
+      ],
+      "s": 8.0
+    },
+    {
+      "syn": 102005,
+      "esyn": [
+        126157
+      ],
+      "s": 7.7
+    },
+    {
+      "syn": 99007,
+      "esyn": [
+        100001406
+      ],
+      "s": 6.8
+    },
+    {
+      "syn": 4692,
+      "esyn": [
+        4983
+      ],
+      "s": 4.4
+    },
+    {
+      "syn": 16547,
+      "esyn": [
+        100062955
+      ],
+      "s": 3.3
+    },
+    {
+      "syn": 42244,
+      "esyn": [
+        44585
+      ],
+      "s": 2.4
+    },
+    {
+      "syn": 26451,
+      "esyn": [
+        27646
+      ],
+      "s": 1.2
+    },
+    {
+      "syn": 28507,
+      "esyn": [
+        101335296
+      ],
+      "s": 0.9
+    },
+    {
+      "syn": 83381,
+      "esyn": [
+        89969
+      ],
+      "s": 0.6
+    }
+  ],
+  "entities": [
+    {
+      "bf": "Casey Miller",
+      "syn": -436166,
+      "pl": [
+        [
+          485,
+          12
+        ]
+      ],
+      "type": "NPH",
+      "record": [
+        {
+          "bf": "Casey",
+          "syn": 28034
+        },
+        {
+          "bf": "Miller",
+          "syn": 28032
+        },
+        {
+          "bf": "M",
+          "syn": 23222
+        }
+      ]
+    },
+    {
+      "bf": "Stay Organized Co",
+      "syn": -436165,
+      "pl": [
+        [
+          119,
+          17
+        ]
+      ],
+      "type": "COM",
+      "record": []
+    },
+    {
+      "bf": "Synthe",
+      "syn": -436164,
+      "pl": [
+        [
+          101,
+          6
+        ]
+      ],
+      "type": "PRD",
+      "record": []
+    },
+    {
+      "bf": "Windows",
+      "syn": 99007,
+      "esyn": [
+        100001406,
+        122602
+      ],
+      "pl": [
+        [
+          164,
+          7
+        ]
+      ],
+      "type": "PRD",
+      "record": []
+    }
+  ],
+  "logic": [
+    [
+      {
+        "type": "action",
+        "value": "try",
+        "group": 4
+      },
+      {
+        "type": "subject",
+        "value": "I",
+        "group": 3
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "import",
+        "group": 5
+      },
+      {
+        "type": "subject",
+        "value": "I",
+        "group": 3
+      },
+      {
+        "type": "object",
+        "value": "a file",
+        "group": 6
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "operate",
+        "group": 14
+      },
+      {
+        "type": "subject",
+        "value": "I",
+        "group": 13
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "go",
+        "group": 19
+      },
+      {
+        "type": "subject",
+        "value": "I",
+        "group": 18
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "import",
+        "group": 20
+      },
+      {
+        "type": "subject",
+        "value": "I",
+        "group": 18
+      },
+      {
+        "type": "object",
+        "value": "it",
+        "group": 21
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "say",
+        "group": 24
+      },
+      {
+        "type": "subject",
+        "value": "it",
+        "group": 23
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "be",
+        "group": 27
+      },
+      {
+        "type": "subject",
+        "value": "file",
+        "group": 26
+      }
+    ],
+    [
+      {
+        "type": "action.pn",
+        "value": "be",
+        "group": 32
+      },
+      {
+        "type": "subject",
+        "value": "I",
+        "group": 31
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "fix",
+        "group": 38
+      },
+      {
+        "type": "subject",
+        "value": "what",
+        "group": 33
+      },
+      {
+        "type": "object",
+        "value": "it",
+        "group": 39
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "mean",
+        "group": 35
+      },
+      {
+        "type": "subject",
+        "value": "that",
+        "group": 34
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "import",
+        "group": 43
+      },
+      {
+        "type": "object",
+        "value": "files",
+        "group": 42
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "be",
+        "group": 49
+      },
+      {
+        "type": "subject",
+        "value": "file",
+        "group": 48
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "upload",
+        "group": 50
+      },
+      {
+        "type": "subject",
+        "value": "file",
+        "group": 48
+      },
+      {
+        "type": "object",
+        "value": "it",
+        "group": 51
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "let",
+        "group": 55
+      },
+      {
+        "type": "object",
+        "value": "me",
+        "group": 56
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "know",
+        "group": 57
+      },
+      {
+        "type": "subject",
+        "value": "me",
+        "group": 56
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "take",
+        "group": 61
+      },
+      {
+        "type": "subject",
+        "value": "I",
+        "group": 60
+      },
+      {
+        "type": "object",
+        "value": "what",
+        "group": 58
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "upload",
+        "group": 62
+      },
+      {
+        "type": "object",
+        "value": "files",
+        "group": 63
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "thank",
+        "group": 65
+      },
+      {
+        "type": "object",
+        "value": "you",
+        "group": 66
+      }
+    ]
+  ]
+}

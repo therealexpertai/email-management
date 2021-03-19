@@ -1,0 +1,284 @@
+{
+  "document": {
+    "parse_time": 0.81,
+    "analysis_time": 1.59
+  },
+  "match_info": {
+    "pivot_attributes": {
+      "match": 216,
+      "match_with_combo": 0
+    },
+    "sequences": {
+      "match": 41
+    },
+    "rules": {
+      "match": 8,
+      "segment": [],
+      "categorization": [
+        {
+          "name": "01.00",
+          "label": "Complaint",
+          "score": 12,
+          "compound": 12,
+          "rank": 999,
+          "frequency": 18.46,
+          "winner": false,
+          "rules": [
+            {
+              "id": 149,
+              "label": "",
+              "score": 12,
+              "scope": [
+                {
+                  "begin": 238,
+                  "end": 284,
+                  "score": 12,
+                  "operands": [
+                    {
+                      "operand": 164,
+                      "begin": 243,
+                      "end": 245
+                    },
+                    {
+                      "operand": 164,
+                      "begin": 247,
+                      "end": 250
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "03.00",
+          "label": "Support request",
+          "score": 53,
+          "compound": 53,
+          "rank": 0,
+          "frequency": 81.53,
+          "winner": true,
+          "rules": [
+            {
+              "id": 1,
+              "label": "",
+              "score": 10,
+              "scope": [
+                {
+                  "begin": 0,
+                  "end": 21,
+                  "score": 10,
+                  "operands": [
+                    {
+                      "operand": 1,
+                      "begin": 14,
+                      "end": 20
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "label": "",
+              "score": 3,
+              "scope": [
+                {
+                  "begin": 238,
+                  "end": 284,
+                  "score": 3,
+                  "operands": [
+                    {
+                      "operand": 6,
+                      "begin": 278,
+                      "end": 280
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 55,
+              "label": "",
+              "score": 40,
+              "scope": [
+                {
+                  "begin": 0,
+                  "end": 21,
+                  "score": 40,
+                  "operands": [
+                    {
+                      "operand": 61,
+                      "begin": 5,
+                      "end": 12
+                    },
+                    {
+                      "operand": 61,
+                      "begin": 14,
+                      "end": 20
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "extraction": [
+        {
+          "template": "Companies",
+          "fields": [
+            {
+              "field": "Company",
+              "value": "Stay Organized Co",
+              "instance": [
+                {
+                  "group_by": 0,
+                  "text": "Stay Organized Co",
+                  "rule_details": [
+                    {
+                      "id": 171,
+                      "label": ""
+                    }
+                  ],
+                  "pos": 119,
+                  "len": 17,
+                  "snt": 2,
+                  "snt_begin": 23,
+                  "snt_end": 142,
+                  "syncon": -1,
+                  "ancestor": 104830453
+                }
+              ]
+            }
+          ],
+          "instances": 0
+        },
+        {
+          "template": "People",
+          "fields": [
+            {
+              "field": "Person",
+              "value": "Casey Miller",
+              "instance": [
+                {
+                  "group_by": 0,
+                  "text": "Casey Miller",
+                  "rule_details": [
+                    {
+                      "id": 170,
+                      "label": ""
+                    }
+                  ],
+                  "pos": 485,
+                  "len": 12,
+                  "snt": 11,
+                  "snt_begin": 485,
+                  "snt_end": 496,
+                  "syncon": -1,
+                  "ancestor": 100215627
+                }
+              ]
+            }
+          ],
+          "instances": 0
+        },
+        {
+          "template": "Products",
+          "fields": [
+            {
+              "field": "Product",
+              "value": "Synthe",
+              "instance": [
+                {
+                  "group_by": 0,
+                  "text": "Synthe",
+                  "rule_details": [
+                    {
+                      "id": 179,
+                      "label": ""
+                    },
+                    {
+                      "id": 184,
+                      "label": ""
+                    }
+                  ],
+                  "pos": 101,
+                  "len": 6,
+                  "snt": 2,
+                  "snt_begin": 23,
+                  "snt_end": 142,
+                  "syncon": -1,
+                  "ancestor": 100166142
+                }
+              ]
+            }
+          ],
+          "instances": 0
+        }
+      ],
+      "tagger": []
+    },
+    "checksum": "da0ebd8d"
+  },
+  "script_info": {
+    "onTagger": []
+  },
+  "annotation": [
+    {
+      "key": "extraction",
+      "data": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "detail": [
+          {
+            "template": "Companies",
+            "field": "Company",
+            "value": "Stay Organized Co",
+            "start": 119,
+            "end": 136,
+            "result": "tp"
+          },
+          {
+            "template": "People",
+            "field": "Person",
+            "value": "Casey Miller",
+            "start": 485,
+            "end": 497,
+            "result": "tp"
+          },
+          {
+            "template": "Products",
+            "field": "Product",
+            "value": "Synthe",
+            "start": 101,
+            "end": 107,
+            "result": "tp"
+          }
+        ]
+      }
+    },
+    {
+      "key": "categorization",
+      "data": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "detail": [
+          {
+            "category": "03.00",
+            "start": 0,
+            "end": 0,
+            "result": "tp"
+          }
+        ]
+      }
+    }
+  ],
+  "properties": {
+    "ANNOTATIONS_MD5": "C479FB28BECF381BDD2D6C77B5754DBC"
+  }
+}

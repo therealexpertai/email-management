@@ -1,0 +1,438 @@
+{
+  "document": {
+    "parse_time": 1.36,
+    "analysis_time": 2.57
+  },
+  "match_info": {
+    "pivot_attributes": {
+      "match": 460,
+      "match_with_combo": 0
+    },
+    "sequences": {
+      "match": 67
+    },
+    "rules": {
+      "match": 12,
+      "segment": [],
+      "categorization": [
+        {
+          "name": "01.00",
+          "label": "Complaint",
+          "score": 102,
+          "compound": 102,
+          "rank": 0,
+          "frequency": 60.35,
+          "winner": true,
+          "rules": [
+            {
+              "id": 57,
+              "label": "",
+              "score": 15,
+              "scope": [
+                {
+                  "begin": 846,
+                  "end": 925,
+                  "score": 15,
+                  "operands": [
+                    {
+                      "operand": 64,
+                      "begin": 860,
+                      "end": 867
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 63,
+              "label": "",
+              "score": 15,
+              "scope": [
+                {
+                  "begin": 927,
+                  "end": 1064,
+                  "score": 15,
+                  "operands": [
+                    {
+                      "operand": 70,
+                      "begin": 954,
+                      "end": 961
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 66,
+              "label": "",
+              "score": 3,
+              "scope": [
+                {
+                  "begin": 11,
+                  "end": 154,
+                  "score": 3,
+                  "operands": [
+                    {
+                      "operand": 73,
+                      "begin": 79,
+                      "end": 89
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 70,
+              "label": "",
+              "score": 30,
+              "scope": [
+                {
+                  "begin": 229,
+                  "end": 327,
+                  "score": 10,
+                  "operands": [
+                    {
+                      "operand": 78,
+                      "begin": 282,
+                      "end": 286
+                    }
+                  ]
+                },
+                {
+                  "begin": 846,
+                  "end": 925,
+                  "score": 10,
+                  "operands": [
+                    {
+                      "operand": 78,
+                      "begin": 860,
+                      "end": 867
+                    }
+                  ]
+                },
+                {
+                  "begin": 1316,
+                  "end": 1408,
+                  "score": 10,
+                  "operands": [
+                    {
+                      "operand": 78,
+                      "begin": 1391,
+                      "end": 1401
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 78,
+              "label": "",
+              "score": 27,
+              "scope": [
+                {
+                  "begin": 927,
+                  "end": 1064,
+                  "score": 27,
+                  "operands": [
+                    {
+                      "operand": 87,
+                      "begin": 932,
+                      "end": 932
+                    },
+                    {
+                      "operand": 87,
+                      "begin": 934,
+                      "end": 939
+                    },
+                    {
+                      "operand": 87,
+                      "begin": 954,
+                      "end": 961
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 149,
+              "label": "",
+              "score": 12,
+              "scope": [
+                {
+                  "begin": 1183,
+                  "end": 1314,
+                  "score": 12,
+                  "operands": [
+                    {
+                      "operand": 164,
+                      "begin": 1248,
+                      "end": 1250
+                    },
+                    {
+                      "operand": 164,
+                      "begin": 1252,
+                      "end": 1255
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "03.00",
+          "label": "Support request",
+          "score": 67,
+          "compound": 67,
+          "rank": 1,
+          "frequency": 39.64,
+          "winner": true,
+          "rules": [
+            {
+              "id": 5,
+              "label": "",
+              "score": 6,
+              "scope": [
+                {
+                  "begin": 1066,
+                  "end": 1181,
+                  "score": 3,
+                  "operands": [
+                    {
+                      "operand": 5,
+                      "begin": 1111,
+                      "end": 1117
+                    }
+                  ]
+                },
+                {
+                  "begin": 1183,
+                  "end": 1314,
+                  "score": 3,
+                  "operands": [
+                    {
+                      "operand": 5,
+                      "begin": 1272,
+                      "end": 1281
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "label": "",
+              "score": 3,
+              "scope": [
+                {
+                  "begin": 1316,
+                  "end": 1408,
+                  "score": 3,
+                  "operands": [
+                    {
+                      "operand": 6,
+                      "begin": 1369,
+                      "end": 1376
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "label": "",
+              "score": 6,
+              "scope": [
+                {
+                  "begin": 1316,
+                  "end": 1408,
+                  "score": 6,
+                  "operands": [
+                    {
+                      "operand": 7,
+                      "begin": 1369,
+                      "end": 1376
+                    },
+                    {
+                      "operand": 8,
+                      "begin": 1369,
+                      "end": 1376
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 22,
+              "label": "",
+              "score": 40,
+              "scope": [
+                {
+                  "begin": 1410,
+                  "end": 1462,
+                  "score": 40,
+                  "operands": [
+                    {
+                      "operand": 24,
+                      "begin": 1410,
+                      "end": 1414
+                    },
+                    {
+                      "operand": 24,
+                      "begin": 1436,
+                      "end": 1442
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 44,
+              "label": "",
+              "score": 12,
+              "scope": [
+                {
+                  "begin": 377,
+                  "end": 503,
+                  "score": 12,
+                  "operands": [
+                    {
+                      "operand": 46,
+                      "begin": 451,
+                      "end": 456
+                    },
+                    {
+                      "operand": 46,
+                      "begin": 458,
+                      "end": 463
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "extraction": [
+        {
+          "template": "People",
+          "fields": [
+            {
+              "field": "Person",
+              "value": "Emma",
+              "instance": [
+                {
+                  "group_by": 0,
+                  "text": "Emma",
+                  "rule_details": [
+                    {
+                      "id": 170,
+                      "label": ""
+                    }
+                  ],
+                  "pos": 5,
+                  "len": 4,
+                  "snt": 1,
+                  "snt_begin": 0,
+                  "snt_end": 9,
+                  "syncon": -1,
+                  "ancestor": 78360
+                }
+              ]
+            }
+          ],
+          "instances": 0
+        },
+        {
+          "template": "People",
+          "fields": [
+            {
+              "field": "Person",
+              "value": "Karen Thompson",
+              "instance": [
+                {
+                  "group_by": 1000000,
+                  "text": "Karen Thompson",
+                  "rule_details": [
+                    {
+                      "id": 170,
+                      "label": ""
+                    }
+                  ],
+                  "pos": 1475,
+                  "len": 14,
+                  "snt": 18,
+                  "snt_begin": 1475,
+                  "snt_end": 1488,
+                  "syncon": -1,
+                  "ancestor": 100215627
+                }
+              ]
+            }
+          ],
+          "instances": 0
+        }
+      ],
+      "tagger": []
+    },
+    "checksum": "da0ebd8d"
+  },
+  "script_info": {
+    "onTagger": []
+  },
+  "annotation": [
+    {
+      "key": "extraction",
+      "data": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "detail": [
+          {
+            "template": "People",
+            "field": "Person",
+            "value": "Emma",
+            "start": 5,
+            "end": 9,
+            "result": "tp"
+          },
+          {
+            "template": "People",
+            "field": "Person",
+            "value": "Karen Thompson",
+            "start": 1475,
+            "end": 1489,
+            "result": "tp"
+          }
+        ]
+      }
+    },
+    {
+      "key": "categorization",
+      "data": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "detail": [
+          {
+            "category": "01.00",
+            "start": 0,
+            "end": 0,
+            "result": "tp"
+          },
+          {
+            "category": "03.00",
+            "start": 0,
+            "end": 0,
+            "result": "tp"
+          }
+        ]
+      }
+    }
+  ],
+  "properties": {
+    "ANNOTATIONS_MD5": "B2090069376EAF91054D64570E356135"
+  }
+}

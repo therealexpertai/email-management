@@ -1,0 +1,1502 @@
+{
+  "header": {
+    "version": "VR4",
+    "language": "EN",
+    "startddis_flags": [
+      "2048: disable cleanparagraph",
+      "4096: token absolute position"
+    ],
+    "code": 150
+  },
+  "paragraphs": [
+    {
+      "s": [
+        0
+      ],
+      "p": 0,
+      "l": 85
+    },
+    {
+      "s": [
+        1
+      ],
+      "p": 86,
+      "l": 49
+    },
+    {
+      "s": [
+        2
+      ],
+      "p": 136,
+      "l": 20
+    },
+    {
+      "s": [
+        3
+      ],
+      "p": 157,
+      "l": 92
+    }
+  ],
+  "sentences": [
+    {
+      "g": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "p": 0,
+      "l": 85
+    },
+    {
+      "g": [
+        9,
+        10
+      ],
+      "p": 86,
+      "l": 49
+    },
+    {
+      "g": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "p": 136,
+      "l": 20
+    },
+    {
+      "g": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "p": 157,
+      "l": 92
+    }
+  ],
+  "groups": [
+    {
+      "gk": "VP",
+      "pr": 0,
+      "pk": "INDEPENDENT",
+      "lt": 0,
+      "t": [
+        0
+      ],
+      "p": 0,
+      "l": 7
+    },
+    {
+      "gk": "PP",
+      "pr": 0,
+      "pk": "INDEPENDENT",
+      "lt": 2,
+      "t": [
+        1,
+        2
+      ],
+      "p": 8,
+      "l": 9
+    },
+    {
+      "gk": "NA",
+      "pr": 0,
+      "pk": "INDEPENDENT",
+      "t": [
+        3
+      ],
+      "p": 17,
+      "l": 1
+    },
+    {
+      "gk": "NP",
+      "pr": 0,
+      "pk": "INDEPENDENT",
+      "lt": 7,
+      "t": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "p": 19,
+      "l": 40
+    },
+    {
+      "gk": "PP",
+      "pr": 0,
+      "pk": "INDEPENDENT",
+      "lt": 11,
+      "t": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "p": 60,
+      "l": 16
+    },
+    {
+      "gk": "NA",
+      "pr": 0,
+      "pk": "INDEPENDENT",
+      "t": [
+        14
+      ],
+      "p": 77,
+      "l": 1
+    },
+    {
+      "gk": "NP",
+      "pr": 0,
+      "pk": "INDEPENDENT",
+      "lt": 15,
+      "t": [
+        15
+      ],
+      "p": 78,
+      "l": 6
+    },
+    {
+      "gk": "NA",
+      "pr": 0,
+      "pk": "INDEPENDENT",
+      "t": [
+        16
+      ],
+      "p": 84,
+      "l": 1
+    },
+    {
+      "gk": "CR"
+    },
+    {
+      "gk": "NA",
+      "t": [
+        17
+      ],
+      "p": 86,
+      "l": 49
+    },
+    {
+      "gk": "CR"
+    },
+    {
+      "gk": "NP",
+      "pr": 1,
+      "pk": "INDEPENDENT",
+      "lt": 18,
+      "t": [
+        18
+      ],
+      "p": 136,
+      "l": 4
+    },
+    {
+      "gk": "PN",
+      "pr": 1,
+      "pk": "INDEPENDENT",
+      "lt": 22,
+      "t": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "p": 141,
+      "l": 14
+    },
+    {
+      "gk": "NA",
+      "pr": 1,
+      "pk": "INDEPENDENT",
+      "t": [
+        23
+      ],
+      "p": 155,
+      "l": 1
+    },
+    {
+      "gk": "CR"
+    },
+    {
+      "gk": "NP",
+      "pr": 2,
+      "pk": "INDEPENDENT",
+      "t": [
+        24
+      ],
+      "p": 157,
+      "l": 3
+    },
+    {
+      "gk": "VP",
+      "pr": 2,
+      "pk": "INDEPENDENT",
+      "lt": 26,
+      "t": [
+        25,
+        26
+      ],
+      "p": 161,
+      "l": 7
+    },
+    {
+      "gk": "NP",
+      "pr": 2,
+      "pk": "INDEPENDENT",
+      "lt": 30,
+      "t": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "p": 169,
+      "l": 17
+    },
+    {
+      "gk": "NP",
+      "pr": 3,
+      "pk": "INDEPENDENT",
+      "t": [
+        31
+      ],
+      "p": 187,
+      "l": 3
+    },
+    {
+      "gk": "VP",
+      "pr": 3,
+      "pk": "INDEPENDENT",
+      "lt": 32,
+      "t": [
+        32
+      ],
+      "p": 191,
+      "l": 4
+    },
+    {
+      "gk": "VP",
+      "pr": 4,
+      "pk": "GENERIC",
+      "lt": 34,
+      "t": [
+        33,
+        34
+      ],
+      "p": 196,
+      "l": 9
+    },
+    {
+      "gk": "AP",
+      "pr": 4,
+      "pk": "GENERIC",
+      "lt": 35,
+      "t": [
+        35
+      ],
+      "p": 206,
+      "l": 3
+    },
+    {
+      "gk": "NA",
+      "t": [
+        36
+      ],
+      "p": 210,
+      "l": 1
+    },
+    {
+      "gk": "NP",
+      "pr": 5,
+      "pk": "INDEPENDENT",
+      "lt": 37,
+      "t": [
+        37
+      ],
+      "p": 211,
+      "l": 8
+    },
+    {
+      "gk": "NA",
+      "pr": 5,
+      "pk": "INDEPENDENT",
+      "t": [
+        38
+      ],
+      "p": 219,
+      "l": 1
+    },
+    {
+      "gk": "NP",
+      "pr": 5,
+      "pk": "INDEPENDENT",
+      "lt": 39,
+      "t": [
+        39,
+        40,
+        41
+      ],
+      "p": 220,
+      "l": 4
+    },
+    {
+      "gk": "VP",
+      "pr": 5,
+      "pk": "INDEPENDENT",
+      "lt": 42,
+      "t": [
+        42
+      ],
+      "p": 225,
+      "l": 5
+    },
+    {
+      "gk": "VP",
+      "pr": 6,
+      "pk": "PURPOSE",
+      "lt": 44,
+      "t": [
+        43,
+        44
+      ],
+      "p": 231,
+      "l": 7
+    },
+    {
+      "gk": "NP",
+      "pr": 6,
+      "pk": "PURPOSE",
+      "lt": 45,
+      "t": [
+        45
+      ],
+      "p": 239,
+      "l": 9
+    },
+    {
+      "gk": "NA",
+      "pr": 2,
+      "pk": "INDEPENDENT",
+      "t": [
+        46
+      ],
+      "p": 248,
+      "l": 1
+    },
+    {
+      "gk": "CR"
+    }
+  ],
+  "tokens": [
+    {
+      "p": 0,
+      "l": 7,
+      "gt": "VER",
+      "gd": "AN__",
+      "ga": {
+        "tense": "simple present",
+        "cont": "not continuous"
+      },
+      "bf": "welcome",
+      "bfid": 510781,
+      "syn": 66104,
+      "esyn": [
+        69798
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 8,
+      "l": 2,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "to",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 11,
+      "l": 6,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "studio",
+      "bfid": 483654,
+      "syn": 20227,
+      "esyn": [
+        21145
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 17,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": ",",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 19,
+      "l": 3,
+      "gt": "ART",
+      "gd": "",
+      "bf": "the",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 23,
+      "l": 3,
+      "gt": "ADJ",
+      "gd": "IIQB",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined",
+        "adj_type": "Q",
+        "adj_grade": "base"
+      },
+      "bf": "new",
+      "bfid": 427901,
+      "syn": 84211,
+      "esyn": [
+        90857
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 27,
+      "l": 8,
+      "gt": "ADJ",
+      "gd": "IIQB",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined",
+        "adj_type": "Q",
+        "adj_grade": "base"
+      },
+      "bf": "powerful",
+      "bfid": 448242,
+      "syn": 84936,
+      "esyn": [
+        91635
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 36,
+      "l": 23,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "development environment",
+      "bfid": 349174,
+      "syn": 144727,
+      "esyn": [
+        176959
+      ],
+      "it": 1,
+      "ia": 0,
+      "pos": "_"
+    },
+    {
+      "p": 36,
+      "l": 11,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "development",
+      "bfid": 349169,
+      "syn": -1,
+      "it": 0,
+      "ia": 1
+    },
+    {
+      "p": 48,
+      "l": 11,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "environment",
+      "bfid": 360906,
+      "syn": -1,
+      "it": 0,
+      "ia": 1
+    },
+    {
+      "p": 60,
+      "l": 2,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "by",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 63,
+      "l": 13,
+      "gt": "NPR.COM",
+      "gd": "II",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined"
+      },
+      "bf": "Expert System",
+      "bfid": 85400,
+      "syn": 241308,
+      "esyn": [
+        105421217,
+        327022
+      ],
+      "it": 1,
+      "ia": 0,
+      "pos": "_"
+    },
+    {
+      "p": 63,
+      "l": 6,
+      "gt": "NOU",
+      "gd": "II",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined"
+      },
+      "bfid": -1,
+      "it": 0,
+      "ia": 1
+    },
+    {
+      "p": 70,
+      "l": 6,
+      "gt": "NOU",
+      "gd": "IS",
+      "ga": {
+        "gender": "undefined",
+        "number": "singular"
+      },
+      "bfid": -1,
+      "it": 0,
+      "ia": 1
+    },
+    {
+      "p": 77,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": "(",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 78,
+      "l": 6,
+      "gt": "NPR.GEO",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "Modena",
+      "bfid": 174013,
+      "syn": 216089,
+      "esyn": [
+        13158518,
+        100000279,
+        506541461,
+        292514
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 84,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": ")",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 86,
+      "l": 49,
+      "gt": "PNT",
+      "gd": "",
+      "bf": "-------------------------------------------------",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 136,
+      "l": 4,
+      "gt": "PRO",
+      "gd": "IB",
+      "ga": {
+        "pro_type": "I",
+        "pro_subtype": "B"
+      },
+      "bf": "this",
+      "bfid": 493027,
+      "syn": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 141,
+      "l": 2,
+      "gt": "VER",
+      "gd": "AN3_",
+      "ga": {
+        "tense": "simple present",
+        "cont": "not continuous",
+        "person": "3"
+      },
+      "bf": "be",
+      "bfid": 311875,
+      "syn": 72504,
+      "esyn": [
+        77408
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 144,
+      "l": 1,
+      "gt": "ART",
+      "gd": "",
+      "bf": "a",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 146,
+      "l": 4,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "test",
+      "bfid": 491736,
+      "syn": 31707,
+      "esyn": [
+        100027318,
+        33170
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 151,
+      "l": 4,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "file",
+      "bfid": 368532,
+      "syn": 28642,
+      "esyn": [
+        100082753,
+        29955
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 155,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": "!",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 157,
+      "l": 3,
+      "gt": "PRO",
+      "gd": "PS",
+      "ga": {
+        "pro_type": "P",
+        "pro_subtype": "S"
+      },
+      "bf": "You",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 161,
+      "l": 3,
+      "gt": "AUX",
+      "gd": "_",
+      "ga": {},
+      "bf": "can",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 165,
+      "l": 3,
+      "gt": "VER",
+      "gd": "____",
+      "ga": {},
+      "bf": "add",
+      "bfid": 294178,
+      "syn": 63519,
+      "esyn": [
+        66773
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 169,
+      "l": 3,
+      "gt": "ADJ",
+      "gd": "IIQB",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined",
+        "adj_type": "Q",
+        "adj_grade": "base"
+      },
+      "bf": "all",
+      "bfid": 299577,
+      "syn": 78078,
+      "esyn": [
+        84163
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 173,
+      "l": 3,
+      "gt": "ART",
+      "gd": "",
+      "bf": "the",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 177,
+      "l": 4,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "test",
+      "bfid": 491736,
+      "syn": 31707,
+      "esyn": [
+        100027318,
+        33170
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 182,
+      "l": 4,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "file",
+      "bfid": 368532,
+      "syn": 28642,
+      "esyn": [
+        100082753,
+        29955
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 187,
+      "l": 3,
+      "gt": "PRO",
+      "gd": "PS",
+      "ga": {
+        "pro_type": "P",
+        "pro_subtype": "S"
+      },
+      "bf": "you",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 191,
+      "l": 4,
+      "gt": "VER",
+      "gd": "AN2_",
+      "ga": {
+        "tense": "simple present",
+        "cont": "not continuous",
+        "person": "2"
+      },
+      "bf": "want",
+      "bfid": 509296,
+      "syn": 69694,
+      "esyn": [
+        74024
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 196,
+      "l": 2,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "by",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 199,
+      "l": 6,
+      "gt": "VER",
+      "gd": "CN__",
+      "ga": {
+        "tense": "ing form",
+        "cont": "not continuous"
+      },
+      "bf": "add",
+      "bfid": 294178,
+      "syn": 71528,
+      "esyn": [
+        76228
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 206,
+      "l": 3,
+      "gt": "ADJ",
+      "gd": "IIQB",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined",
+        "adj_type": "Q",
+        "adj_grade": "base"
+      },
+      "bf": "new",
+      "bfid": 427901,
+      "syn": 83964,
+      "esyn": [
+        90596
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 210,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": "\u003c",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 211,
+      "l": 8,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "filename",
+      "bfid": 368584,
+      "syn": 100665,
+      "esyn": [
+        101144928,
+        124579
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 219,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": "\u003e",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 220,
+      "l": 4,
+      "gt": "NOU",
+      "gd": "II",
+      "ga": {
+        "gender": "undefined",
+        "number": "undefined"
+      },
+      "bf": ".txt",
+      "bfid": 478,
+      "syn": 74798,
+      "esyn": [
+        80296
+      ],
+      "it": 1,
+      "ia": 0,
+      "pos": "_"
+    },
+    {
+      "p": 220,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "ga": {},
+      "bfid": -1,
+      "it": 0,
+      "ia": 1
+    },
+    {
+      "p": 221,
+      "l": 3,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "txt",
+      "bfid": 499847,
+      "syn": -1,
+      "it": 0,
+      "ia": 1
+    },
+    {
+      "p": 225,
+      "l": 5,
+      "gt": "VER",
+      "gd": "AN3_",
+      "ga": {
+        "tense": "simple present",
+        "cont": "not continuous",
+        "person": "3"
+      },
+      "bf": "file",
+      "bfid": 368532,
+      "syn": 66462,
+      "esyn": [
+        70221
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 231,
+      "l": 2,
+      "gt": "PRE",
+      "gd": "",
+      "bf": "to",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 234,
+      "l": 4,
+      "gt": "VER",
+      "gd": "IN__",
+      "ga": {
+        "tense": "undefined",
+        "cont": "not continuous"
+      },
+      "bf": "test",
+      "bfid": 491736,
+      "syn": 139326,
+      "esyn": [
+        170118
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 239,
+      "l": 9,
+      "gt": "NOU",
+      "gd": "NS",
+      "ga": {
+        "gender": "neutral",
+        "number": "singular"
+      },
+      "bf": "directory",
+      "bfid": 351198,
+      "syn": 28563,
+      "esyn": [
+        100201456,
+        29870
+      ],
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    },
+    {
+      "p": 248,
+      "l": 1,
+      "gt": "PNT",
+      "gd": "",
+      "bf": "!",
+      "bfid": -1,
+      "it": 1,
+      "ia": 1,
+      "pos": "_"
+    }
+  ],
+  "domains": [
+    {
+      "name": "software",
+      "r": 15,
+      "s": 18.4,
+      "m": 1
+    },
+    {
+      "name": "computer science",
+      "r": 12,
+      "s": 8.5,
+      "m": 1
+    },
+    {
+      "name": "computer programming",
+      "r": 1,
+      "s": 1.0,
+      "m": 0
+    },
+    {
+      "name": "bureaucratic terminology",
+      "r": 1,
+      "s": 0.3,
+      "m": 0
+    },
+    {
+      "name": "school systems",
+      "r": 1,
+      "s": 0.3,
+      "m": 0
+    },
+    {
+      "name": "operating systems",
+      "r": 1,
+      "s": 0.3,
+      "m": 0
+    }
+  ],
+  "mainsentences": [
+    {
+      "id": 3,
+      "text": "You can add all the test file you want by adding new \u003cfilename\u003e.txt files to test directory!",
+      "s": 52.2
+    },
+    {
+      "id": 0,
+      "text": "Welcome to Studio, the new powerful development environment by Expert System (Modena)",
+      "s": 30.6
+    },
+    {
+      "id": 2,
+      "text": "This is a test file!",
+      "s": 17.1
+    }
+  ],
+  "maingroups": [
+    {
+      "text": "test file",
+      "s": 85.2,
+      "pl": [
+        [
+          146,
+          9
+        ],
+        [
+          177,
+          9
+        ]
+      ]
+    },
+    {
+      "text": "development environment by Expert System",
+      "s": 8.0,
+      "pl": [
+        [
+          36,
+          40
+        ]
+      ]
+    },
+    {
+      "text": "test directory",
+      "s": 4.699999,
+      "pl": [
+        [
+          234,
+          14
+        ]
+      ]
+    },
+    {
+      "text": "welcome to studio",
+      "s": 1.2,
+      "pl": [
+        [
+          0,
+          17
+        ]
+      ]
+    },
+    {
+      "text": "powerful development environment by Expert System",
+      "s": 0.4,
+      "pl": [
+        [
+          27,
+          49
+        ]
+      ]
+    }
+  ],
+  "mainlemmas": [
+    {
+      "text": "file",
+      "s": 21.8
+    },
+    {
+      "text": "Expert System",
+      "s": 14.3
+    },
+    {
+      "text": ".txt",
+      "s": 13.6
+    },
+    {
+      "text": "development environment",
+      "s": 12.0
+    },
+    {
+      "text": "test",
+      "s": 11.5
+    },
+    {
+      "text": "directory",
+      "s": 11.2
+    },
+    {
+      "text": "filename",
+      "s": 8.7
+    }
+  ],
+  "mainsyncons": [
+    {
+      "syn": 28642,
+      "esyn": [
+        100082753
+      ],
+      "s": 22.5
+    },
+    {
+      "syn": 241308,
+      "esyn": [
+        105421217
+      ],
+      "s": 13.6
+    },
+    {
+      "syn": 74798,
+      "esyn": [
+        80296
+      ],
+      "s": 13.0
+    },
+    {
+      "syn": 31707,
+      "esyn": [
+        100027318
+      ],
+      "s": 12.2
+    },
+    {
+      "syn": 144727,
+      "esyn": [
+        176959
+      ],
+      "s": 11.5
+    },
+    {
+      "syn": 28563,
+      "esyn": [
+        100201456
+      ],
+      "s": 11.5
+    },
+    {
+      "syn": 100665,
+      "esyn": [
+        101144928
+      ],
+      "s": 8.6
+    },
+    {
+      "syn": 20227,
+      "esyn": [
+        21145
+      ],
+      "s": 4.9
+    },
+    {
+      "syn": 216089,
+      "esyn": [
+        13158518
+      ],
+      "s": 1.0
+    },
+    {
+      "syn": 84936,
+      "esyn": [
+        91635
+      ],
+      "s": 0.3
+    },
+    {
+      "syn": 84211,
+      "esyn": [
+        90857
+      ],
+      "s": 0.3
+    }
+  ],
+  "entities": [
+    {
+      "bf": "Modena",
+      "syn": 216089,
+      "esyn": [
+        13158518,
+        100000279,
+        506541461,
+        292514
+      ],
+      "pl": [
+        [
+          78,
+          6
+        ]
+      ],
+      "type": "GEO",
+      "record": []
+    },
+    {
+      "bf": "Expert System",
+      "syn": 241308,
+      "esyn": [
+        105421217,
+        327022
+      ],
+      "pl": [
+        [
+          63,
+          13
+        ]
+      ],
+      "type": "COM",
+      "record": []
+    }
+  ],
+  "logic": [
+    [
+      {
+        "type": "action.pn",
+        "value": "be",
+        "group": 12
+      },
+      {
+        "type": "subject",
+        "value": "This",
+        "group": 11
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "add",
+        "group": 16
+      },
+      {
+        "type": "subject",
+        "value": "You",
+        "group": 15
+      },
+      {
+        "type": "object",
+        "value": "all the test file",
+        "group": 17
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "want",
+        "group": 19
+      },
+      {
+        "type": "subject",
+        "value": "you",
+        "group": 18
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "add",
+        "group": 20
+      },
+      {
+        "type": "subject",
+        "value": "you",
+        "group": 18
+      },
+      {
+        "type": "copula",
+        "value": "new",
+        "group": 21
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "file",
+        "group": 26
+      },
+      {
+        "type": "subject",
+        "value": ".txt",
+        "group": 25
+      }
+    ],
+    [
+      {
+        "type": "action",
+        "value": "test",
+        "group": 27
+      },
+      {
+        "type": "subject",
+        "value": ".txt",
+        "group": 25
+      },
+      {
+        "type": "object",
+        "value": "directory",
+        "group": 28
+      }
+    ]
+  ]
+}

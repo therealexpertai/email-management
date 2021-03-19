@@ -1,0 +1,401 @@
+{
+  "document": {
+    "parse_time": 0.55,
+    "analysis_time": 0.97
+  },
+  "match_info": {
+    "pivot_attributes": {
+      "match": 216,
+      "match_with_combo": 0
+    },
+    "sequences": {
+      "match": 74
+    },
+    "rules": {
+      "match": 9,
+      "segment": [],
+      "categorization": [
+        {
+          "name": "01.00",
+          "label": "Complaint",
+          "score": 12,
+          "compound": 12,
+          "rank": 999,
+          "frequency": 5.66,
+          "winner": false,
+          "rules": [
+            {
+              "id": 149,
+              "label": "",
+              "score": 12,
+              "scope": [
+                {
+                  "begin": 112,
+                  "end": 206,
+                  "score": 12,
+                  "operands": [
+                    {
+                      "operand": 164,
+                      "begin": 169,
+                      "end": 171
+                    },
+                    {
+                      "operand": 164,
+                      "begin": 173,
+                      "end": 176
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "02.00",
+          "label": "Information request",
+          "score": 150,
+          "compound": 150,
+          "rank": 0,
+          "frequency": 70.75,
+          "winner": true,
+          "rules": [
+            {
+              "id": 163,
+              "label": "",
+              "score": 60,
+              "scope": [
+                {
+                  "begin": 479,
+                  "end": 530,
+                  "score": 60,
+                  "operands": [
+                    {
+                      "operand": 180,
+                      "begin": 479,
+                      "end": 483
+                    },
+                    {
+                      "operand": 180,
+                      "begin": 519,
+                      "end": 529
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 165,
+              "label": "",
+              "score": 60,
+              "scope": [
+                {
+                  "begin": 366,
+                  "end": 477,
+                  "score": 30,
+                  "operands": [
+                    {
+                      "operand": 182,
+                      "begin": 368,
+                      "end": 370
+                    },
+                    {
+                      "operand": 182,
+                      "begin": 379,
+                      "end": 381
+                    },
+                    {
+                      "operand": 182,
+                      "begin": 389,
+                      "end": 395
+                    },
+                    {
+                      "operand": 183,
+                      "begin": 405,
+                      "end": 415
+                    }
+                  ]
+                },
+                {
+                  "begin": 366,
+                  "end": 477,
+                  "score": 30,
+                  "operands": [
+                    {
+                      "operand": 182,
+                      "begin": 368,
+                      "end": 370
+                    },
+                    {
+                      "operand": 182,
+                      "begin": 379,
+                      "end": 381
+                    },
+                    {
+                      "operand": 182,
+                      "begin": 389,
+                      "end": 395
+                    },
+                    {
+                      "operand": 183,
+                      "begin": 436,
+                      "end": 439
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 168,
+              "label": "",
+              "score": 30,
+              "scope": [
+                {
+                  "begin": 208,
+                  "end": 364,
+                  "score": 30,
+                  "operands": [
+                    {
+                      "operand": 188,
+                      "begin": 208,
+                      "end": 211
+                    },
+                    {
+                      "operand": 188,
+                      "begin": 213,
+                      "end": 214
+                    },
+                    {
+                      "operand": 188,
+                      "begin": 220,
+                      "end": 229
+                    },
+                    {
+                      "operand": 189,
+                      "begin": 359,
+                      "end": 363
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "03.00",
+          "label": "Support request",
+          "score": 50,
+          "compound": 50,
+          "rank": 1,
+          "frequency": 23.58,
+          "winner": true,
+          "rules": [
+            {
+              "id": 1,
+              "label": "",
+              "score": 10,
+              "scope": [
+                {
+                  "begin": 479,
+                  "end": 530,
+                  "score": 10,
+                  "operands": [
+                    {
+                      "operand": 1,
+                      "begin": 498,
+                      "end": 501
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 22,
+              "label": "",
+              "score": 40,
+              "scope": [
+                {
+                  "begin": 479,
+                  "end": 530,
+                  "score": 40,
+                  "operands": [
+                    {
+                      "operand": 24,
+                      "begin": 479,
+                      "end": 483
+                    },
+                    {
+                      "operand": 24,
+                      "begin": 498,
+                      "end": 501
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "extraction": [
+        {
+          "template": "People",
+          "fields": [
+            {
+              "field": "Person",
+              "value": "Jane",
+              "instance": [
+                {
+                  "group_by": 0,
+                  "text": "Jane",
+                  "rule_details": [
+                    {
+                      "id": 170,
+                      "label": ""
+                    }
+                  ],
+                  "pos": 5,
+                  "len": 4,
+                  "snt": 1,
+                  "snt_begin": 0,
+                  "snt_end": 9,
+                  "syncon": -1,
+                  "ancestor": 78360
+                }
+              ]
+            }
+          ],
+          "instances": 0
+        },
+        {
+          "template": "People",
+          "fields": [
+            {
+              "field": "Person",
+              "value": "Madelyn Cross",
+              "instance": [
+                {
+                  "group_by": 1000000,
+                  "text": "Madelyn Cross",
+                  "rule_details": [
+                    {
+                      "id": 170,
+                      "label": ""
+                    }
+                  ],
+                  "pos": 546,
+                  "len": 13,
+                  "snt": 11,
+                  "snt_begin": 546,
+                  "snt_end": 558,
+                  "syncon": -1,
+                  "ancestor": 100215627
+                }
+              ]
+            }
+          ],
+          "instances": 0
+        },
+        {
+          "template": "Products",
+          "fields": [
+            {
+              "field": "Product",
+              "value": "Synthe",
+              "instance": [
+                {
+                  "group_by": 0,
+                  "text": "Synthe",
+                  "rule_details": [
+                    {
+                      "id": 179,
+                      "label": ""
+                    },
+                    {
+                      "id": 184,
+                      "label": ""
+                    }
+                  ],
+                  "pos": 37,
+                  "len": 6,
+                  "snt": 3,
+                  "snt_begin": 15,
+                  "snt_end": 52,
+                  "syncon": -1,
+                  "ancestor": 100007397
+                }
+              ]
+            }
+          ],
+          "instances": 0
+        }
+      ],
+      "tagger": []
+    },
+    "checksum": "da0ebd8d"
+  },
+  "script_info": {
+    "onTagger": []
+  },
+  "annotation": [
+    {
+      "key": "extraction",
+      "data": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "detail": [
+          {
+            "template": "People",
+            "field": "Person",
+            "value": "Jane",
+            "start": 5,
+            "end": 9,
+            "result": "tp"
+          },
+          {
+            "template": "People",
+            "field": "Person",
+            "value": "Madelyn Cross",
+            "start": 546,
+            "end": 559,
+            "result": "tp"
+          },
+          {
+            "template": "Products",
+            "field": "Product",
+            "value": "Synthe",
+            "start": 37,
+            "end": 43,
+            "result": "tp"
+          }
+        ]
+      }
+    },
+    {
+      "key": "categorization",
+      "data": {
+        "accuracy": 0.5,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.66,
+        "detail": [
+          {
+            "category": "02.00",
+            "start": 0,
+            "end": 0,
+            "result": "tp"
+          },
+          {
+            "category": "03.00",
+            "start": 0,
+            "end": 0,
+            "result": "fp"
+          }
+        ]
+      }
+    }
+  ],
+  "properties": {
+    "ANNOTATIONS_MD5": "EC22E24BABB6C52372E84D4B3E255F35"
+  }
+}

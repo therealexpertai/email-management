@@ -1,0 +1,5880 @@
+{
+    "content": "Dear Emma,\nI am writing this email to you because my chicken sandwich was made incorrectly based on my online order with complete disregard for my allergy. This incident happened on January 9th, 2019 at your Austin, TX location.\nI have ordered this sandwich many times and have had small problems in the past but, not like this. I ordered a chicken sandwich with NO mushrooms. On the notes I mentioned that I am extremely allergic to mushrooms and to please ensure that no mushrooms were on the sandwich. I unclicked the mushroom option on the app along with other toppings that I did not want to be included. I picked up my sandwich and it had all the toppings on it including the other toppings that I had unclicked. Despite the extra notes in the comment section, the mushrooms were on it too. I could not eat my sandwich even if I wanted to. I think it is terrible that allergies were completely disregarded in this order.\nWhen I called the store to complain they said they would not send me a new one or give me my money back because I ordered through the app. Why is it that since I used the app that you promote, I cannot be given a refund for an order that I am allergic to.\nI have enjoyed your sandwiches for any years but after this I am not sure that I will be supporting this location or business again. I look forward to hearing from you and your proposed solution to this very unfortunate order. Thank you for your future efforts to make this right.\nSincerely,\nKaren Thompson\n",
+    "language": "en",
+    "version": "sensei: 3.3.5; disambiguator: 15.0-QNTX-2016",
+    "paragraphs": [
+        {
+            "sentences": [
+                0
+            ],
+            "start": 0,
+            "end": 10
+        },
+        {
+            "sentences": [
+                1,
+                2
+            ],
+            "start": 11,
+            "end": 228
+        },
+        {
+            "sentences": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "start": 229,
+            "end": 926
+        },
+        {
+            "sentences": [
+                11,
+                12
+            ],
+            "start": 927,
+            "end": 1182
+        },
+        {
+            "sentences": [
+                13,
+                14,
+                15
+            ],
+            "start": 1183,
+            "end": 1463
+        },
+        {
+            "sentences": [
+                16
+            ],
+            "start": 1464,
+            "end": 1474
+        },
+        {
+            "sentences": [
+                17
+            ],
+            "start": 1475,
+            "end": 1489
+        }
+    ],
+    "sentences": [
+        {
+            "phrases": [
+                0,
+                1,
+                2
+            ],
+            "start": 0,
+            "end": 10
+        },
+        {
+            "phrases": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "start": 11,
+            "end": 155
+        },
+        {
+            "phrases": [
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ],
+            "start": 156,
+            "end": 228
+        },
+        {
+            "phrases": [
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33
+            ],
+            "start": 229,
+            "end": 328
+        },
+        {
+            "phrases": [
+                34,
+                35,
+                36,
+                37,
+                38
+            ],
+            "start": 329,
+            "end": 376
+        },
+        {
+            "phrases": [
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52
+            ],
+            "start": 377,
+            "end": 504
+        },
+        {
+            "phrases": [
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63
+            ],
+            "start": 505,
+            "end": 609
+        },
+        {
+            "phrases": [
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77
+            ],
+            "start": 610,
+            "end": 718
+        },
+        {
+            "phrases": [
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85
+            ],
+            "start": 719,
+            "end": 796
+        },
+        {
+            "phrases": [
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93
+            ],
+            "start": 797,
+            "end": 845
+        },
+        {
+            "phrases": [
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103
+            ],
+            "start": 846,
+            "end": 926
+        },
+        {
+            "phrases": [
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124
+            ],
+            "start": 927,
+            "end": 1065
+        },
+        {
+            "phrases": [
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146
+            ],
+            "start": 1066,
+            "end": 1182
+        },
+        {
+            "phrases": [
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162
+            ],
+            "start": 1183,
+            "end": 1315
+        },
+        {
+            "phrases": [
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170
+            ],
+            "start": 1316,
+            "end": 1409
+        },
+        {
+            "phrases": [
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178
+            ],
+            "start": 1410,
+            "end": 1463
+        },
+        {
+            "phrases": [
+                179,
+                180,
+                181
+            ],
+            "start": 1464,
+            "end": 1474
+        },
+        {
+            "phrases": [
+                182,
+                183
+            ],
+            "start": 1475,
+            "end": 1489
+        }
+    ],
+    "phrases": [
+        {
+            "tokens": [
+                0,
+                1
+            ],
+            "type": "NP",
+            "start": 0,
+            "end": 9
+        },
+        {
+            "tokens": [
+                2
+            ],
+            "type": "NA",
+            "start": 9,
+            "end": 10
+        },
+        {
+            "tokens": [],
+            "type": "CR",
+            "start": 10,
+            "end": 10
+        },
+        {
+            "tokens": [
+                3
+            ],
+            "type": "NP",
+            "start": 11,
+            "end": 12
+        },
+        {
+            "tokens": [
+                4,
+                5
+            ],
+            "type": "VP",
+            "start": 13,
+            "end": 23
+        },
+        {
+            "tokens": [
+                6,
+                7
+            ],
+            "type": "NP",
+            "start": 24,
+            "end": 34
+        },
+        {
+            "tokens": [
+                8,
+                9
+            ],
+            "type": "PP",
+            "start": 35,
+            "end": 41
+        },
+        {
+            "tokens": [
+                10
+            ],
+            "type": "CP",
+            "start": 42,
+            "end": 49
+        },
+        {
+            "tokens": [
+                11,
+                12
+            ],
+            "type": "NP",
+            "start": 50,
+            "end": 69
+        },
+        {
+            "tokens": [
+                13,
+                14
+            ],
+            "type": "VP",
+            "start": 70,
+            "end": 78
+        },
+        {
+            "tokens": [
+                15,
+                16
+            ],
+            "type": "VP",
+            "start": 79,
+            "end": 96
+        },
+        {
+            "tokens": [
+                17,
+                18,
+                19,
+                20
+            ],
+            "type": "PP",
+            "start": 97,
+            "end": 115
+        },
+        {
+            "tokens": [
+                21,
+                22,
+                23
+            ],
+            "type": "PP",
+            "start": 116,
+            "end": 139
+        },
+        {
+            "tokens": [
+                24,
+                25,
+                26
+            ],
+            "type": "PP",
+            "start": 140,
+            "end": 154
+        },
+        {
+            "tokens": [
+                27
+            ],
+            "type": "NA",
+            "start": 154,
+            "end": 155
+        },
+        {
+            "tokens": [
+                28,
+                29
+            ],
+            "type": "NP",
+            "start": 156,
+            "end": 169
+        },
+        {
+            "tokens": [
+                30
+            ],
+            "type": "VP",
+            "start": 170,
+            "end": 178
+        },
+        {
+            "tokens": [
+                31,
+                32
+            ],
+            "type": "PP",
+            "start": 179,
+            "end": 199
+        },
+        {
+            "tokens": [
+                33,
+                34,
+                35
+            ],
+            "type": "PP",
+            "start": 200,
+            "end": 218
+        },
+        {
+            "tokens": [
+                36
+            ],
+            "type": "PP",
+            "start": 219,
+            "end": 227
+        },
+        {
+            "tokens": [
+                37
+            ],
+            "type": "NA",
+            "start": 227,
+            "end": 228
+        },
+        {
+            "tokens": [],
+            "type": "CR",
+            "start": 228,
+            "end": 228
+        },
+        {
+            "tokens": [
+                38
+            ],
+            "type": "NP",
+            "start": 229,
+            "end": 230
+        },
+        {
+            "tokens": [
+                39,
+                40
+            ],
+            "type": "VP",
+            "start": 231,
+            "end": 243
+        },
+        {
+            "tokens": [
+                41,
+                42
+            ],
+            "type": "PP",
+            "start": 244,
+            "end": 257
+        },
+        {
+            "tokens": [
+                43,
+                44
+            ],
+            "type": "NP",
+            "start": 258,
+            "end": 268
+        },
+        {
+            "tokens": [
+                45
+            ],
+            "type": "CP",
+            "start": 269,
+            "end": 272
+        },
+        {
+            "tokens": [
+                46,
+                47
+            ],
+            "type": "VP",
+            "start": 273,
+            "end": 281
+        },
+        {
+            "tokens": [
+                48,
+                49
+            ],
+            "type": "NP",
+            "start": 282,
+            "end": 296
+        },
+        {
+            "tokens": [
+                50
+            ],
+            "type": "DP",
+            "start": 297,
+            "end": 308
+        },
+        {
+            "tokens": [
+                51
+            ],
+            "type": "CP",
+            "start": 309,
+            "end": 312
+        },
+        {
+            "tokens": [
+                52
+            ],
+            "type": "NA",
+            "start": 312,
+            "end": 313
+        },
+        {
+            "tokens": [
+                53,
+                54,
+                55
+            ],
+            "type": "PP",
+            "start": 314,
+            "end": 327
+        },
+        {
+            "tokens": [
+                56
+            ],
+            "type": "NA",
+            "start": 327,
+            "end": 328
+        },
+        {
+            "tokens": [
+                57
+            ],
+            "type": "NP",
+            "start": 329,
+            "end": 330
+        },
+        {
+            "tokens": [
+                58
+            ],
+            "type": "VP",
+            "start": 331,
+            "end": 338
+        },
+        {
+            "tokens": [
+                59,
+                60
+            ],
+            "type": "NP",
+            "start": 339,
+            "end": 357
+        },
+        {
+            "tokens": [
+                61,
+                62,
+                63
+            ],
+            "type": "PP",
+            "start": 358,
+            "end": 375
+        },
+        {
+            "tokens": [
+                64
+            ],
+            "type": "NA",
+            "start": 375,
+            "end": 376
+        },
+        {
+            "tokens": [
+                65,
+                66,
+                67
+            ],
+            "type": "PP",
+            "start": 377,
+            "end": 389
+        },
+        {
+            "tokens": [
+                68
+            ],
+            "type": "NP",
+            "start": 390,
+            "end": 391
+        },
+        {
+            "tokens": [
+                69
+            ],
+            "type": "VP",
+            "start": 392,
+            "end": 401
+        },
+        {
+            "tokens": [
+                70
+            ],
+            "type": "CP",
+            "start": 402,
+            "end": 406
+        },
+        {
+            "tokens": [
+                71
+            ],
+            "type": "NP",
+            "start": 407,
+            "end": 408
+        },
+        {
+            "tokens": [
+                72,
+                73,
+                74
+            ],
+            "type": "PN",
+            "start": 409,
+            "end": 430
+        },
+        {
+            "tokens": [
+                75,
+                76
+            ],
+            "type": "PP",
+            "start": 431,
+            "end": 443
+        },
+        {
+            "tokens": [
+                77
+            ],
+            "type": "CP",
+            "start": 444,
+            "end": 447
+        },
+        {
+            "tokens": [
+                78,
+                79,
+                80
+            ],
+            "type": "VP",
+            "start": 448,
+            "end": 464
+        },
+        {
+            "tokens": [
+                81
+            ],
+            "type": "CP",
+            "start": 465,
+            "end": 469
+        },
+        {
+            "tokens": [
+                82,
+                83
+            ],
+            "type": "NP",
+            "start": 470,
+            "end": 482
+        },
+        {
+            "tokens": [
+                84
+            ],
+            "type": "VP",
+            "start": 483,
+            "end": 487
+        },
+        {
+            "tokens": [
+                85,
+                86,
+                87
+            ],
+            "type": "PP",
+            "start": 488,
+            "end": 503
+        },
+        {
+            "tokens": [
+                88
+            ],
+            "type": "NA",
+            "start": 503,
+            "end": 504
+        },
+        {
+            "tokens": [
+                89
+            ],
+            "type": "NP",
+            "start": 505,
+            "end": 506
+        },
+        {
+            "tokens": [
+                90
+            ],
+            "type": "VP",
+            "start": 507,
+            "end": 516
+        },
+        {
+            "tokens": [
+                91,
+                92,
+                93
+            ],
+            "type": "NP",
+            "start": 517,
+            "end": 536
+        },
+        {
+            "tokens": [
+                94,
+                95,
+                96
+            ],
+            "type": "PP",
+            "start": 537,
+            "end": 547
+        },
+        {
+            "tokens": [
+                97
+            ],
+            "type": "DP",
+            "start": 548,
+            "end": 553
+        },
+        {
+            "tokens": [
+                98,
+                99,
+                100
+            ],
+            "type": "PP",
+            "start": 554,
+            "end": 573
+        },
+        {
+            "tokens": [
+                101
+            ],
+            "type": "CP",
+            "start": 574,
+            "end": 578
+        },
+        {
+            "tokens": [
+                102
+            ],
+            "type": "NP",
+            "start": 579,
+            "end": 580
+        },
+        {
+            "tokens": [
+                103,
+                104,
+                105
+            ],
+            "type": "VP",
+            "start": 581,
+            "end": 593
+        },
+        {
+            "tokens": [
+                106,
+                107,
+                108
+            ],
+            "type": "VP",
+            "start": 594,
+            "end": 608
+        },
+        {
+            "tokens": [
+                109
+            ],
+            "type": "NA",
+            "start": 608,
+            "end": 609
+        },
+        {
+            "tokens": [
+                110
+            ],
+            "type": "NP",
+            "start": 610,
+            "end": 611
+        },
+        {
+            "tokens": [
+                111
+            ],
+            "type": "VP",
+            "start": 612,
+            "end": 621
+        },
+        {
+            "tokens": [
+                112,
+                113
+            ],
+            "type": "NP",
+            "start": 622,
+            "end": 633
+        },
+        {
+            "tokens": [
+                114
+            ],
+            "type": "CP",
+            "start": 634,
+            "end": 637
+        },
+        {
+            "tokens": [
+                115
+            ],
+            "type": "NP",
+            "start": 638,
+            "end": 640
+        },
+        {
+            "tokens": [
+                116
+            ],
+            "type": "VP",
+            "start": 641,
+            "end": 644
+        },
+        {
+            "tokens": [
+                117,
+                118,
+                119
+            ],
+            "type": "NP",
+            "start": 645,
+            "end": 661
+        },
+        {
+            "tokens": [
+                120,
+                121
+            ],
+            "type": "PP",
+            "start": 662,
+            "end": 667
+        },
+        {
+            "tokens": [
+                122
+            ],
+            "type": "VP",
+            "start": 668,
+            "end": 677
+        },
+        {
+            "tokens": [
+                123,
+                124,
+                125
+            ],
+            "type": "NP",
+            "start": 678,
+            "end": 696
+        },
+        {
+            "tokens": [
+                126
+            ],
+            "type": "RP",
+            "start": 697,
+            "end": 701
+        },
+        {
+            "tokens": [
+                127
+            ],
+            "type": "NP",
+            "start": 702,
+            "end": 703
+        },
+        {
+            "tokens": [
+                128,
+                129
+            ],
+            "type": "VP",
+            "start": 704,
+            "end": 717
+        },
+        {
+            "tokens": [
+                130
+            ],
+            "type": "NA",
+            "start": 717,
+            "end": 718
+        },
+        {
+            "tokens": [
+                131,
+                132,
+                133,
+                134
+            ],
+            "type": "PP",
+            "start": 719,
+            "end": 742
+        },
+        {
+            "tokens": [
+                135,
+                136,
+                137,
+                138
+            ],
+            "type": "PP",
+            "start": 743,
+            "end": 765
+        },
+        {
+            "tokens": [
+                139
+            ],
+            "type": "NA",
+            "start": 765,
+            "end": 766
+        },
+        {
+            "tokens": [
+                140,
+                141
+            ],
+            "type": "NP",
+            "start": 767,
+            "end": 780
+        },
+        {
+            "tokens": [
+                142
+            ],
+            "type": "VP",
+            "start": 781,
+            "end": 785
+        },
+        {
+            "tokens": [
+                143,
+                144
+            ],
+            "type": "PP",
+            "start": 786,
+            "end": 791
+        },
+        {
+            "tokens": [
+                145
+            ],
+            "type": "DP",
+            "start": 792,
+            "end": 795
+        },
+        {
+            "tokens": [
+                146
+            ],
+            "type": "NA",
+            "start": 795,
+            "end": 796
+        },
+        {
+            "tokens": [
+                147
+            ],
+            "type": "NP",
+            "start": 797,
+            "end": 798
+        },
+        {
+            "tokens": [
+                148,
+                149,
+                150
+            ],
+            "type": "VP",
+            "start": 799,
+            "end": 812
+        },
+        {
+            "tokens": [
+                151,
+                152
+            ],
+            "type": "NP",
+            "start": 813,
+            "end": 824
+        },
+        {
+            "tokens": [
+                153
+            ],
+            "type": "CP",
+            "start": 825,
+            "end": 832
+        },
+        {
+            "tokens": [
+                154
+            ],
+            "type": "NP",
+            "start": 833,
+            "end": 834
+        },
+        {
+            "tokens": [
+                155
+            ],
+            "type": "VP",
+            "start": 835,
+            "end": 841
+        },
+        {
+            "tokens": [
+                156
+            ],
+            "type": "DP",
+            "start": 842,
+            "end": 844
+        },
+        {
+            "tokens": [
+                157
+            ],
+            "type": "NA",
+            "start": 844,
+            "end": 845
+        },
+        {
+            "tokens": [
+                158
+            ],
+            "type": "NP",
+            "start": 846,
+            "end": 847
+        },
+        {
+            "tokens": [
+                159
+            ],
+            "type": "VP",
+            "start": 848,
+            "end": 853
+        },
+        {
+            "tokens": [
+                160
+            ],
+            "type": "NP",
+            "start": 854,
+            "end": 856
+        },
+        {
+            "tokens": [
+                161,
+                162
+            ],
+            "type": "PN",
+            "start": 857,
+            "end": 868
+        },
+        {
+            "tokens": [
+                163
+            ],
+            "type": "CP",
+            "start": 869,
+            "end": 873
+        },
+        {
+            "tokens": [
+                164
+            ],
+            "type": "NP",
+            "start": 874,
+            "end": 883
+        },
+        {
+            "tokens": [
+                165,
+                166,
+                167
+            ],
+            "type": "VP",
+            "start": 884,
+            "end": 911
+        },
+        {
+            "tokens": [
+                168,
+                169,
+                170
+            ],
+            "type": "PP",
+            "start": 912,
+            "end": 925
+        },
+        {
+            "tokens": [
+                171
+            ],
+            "type": "NA",
+            "start": 925,
+            "end": 926
+        },
+        {
+            "tokens": [],
+            "type": "CR",
+            "start": 926,
+            "end": 926
+        },
+        {
+            "tokens": [
+                172
+            ],
+            "type": "CP",
+            "start": 927,
+            "end": 931
+        },
+        {
+            "tokens": [
+                173
+            ],
+            "type": "NP",
+            "start": 932,
+            "end": 933
+        },
+        {
+            "tokens": [
+                174
+            ],
+            "type": "VP",
+            "start": 934,
+            "end": 940
+        },
+        {
+            "tokens": [
+                175,
+                176
+            ],
+            "type": "NP",
+            "start": 941,
+            "end": 950
+        },
+        {
+            "tokens": [
+                177,
+                178
+            ],
+            "type": "VP",
+            "start": 951,
+            "end": 962
+        },
+        {
+            "tokens": [
+                179
+            ],
+            "type": "NP",
+            "start": 963,
+            "end": 967
+        },
+        {
+            "tokens": [
+                180
+            ],
+            "type": "VP",
+            "start": 968,
+            "end": 972
+        },
+        {
+            "tokens": [
+                181
+            ],
+            "type": "NP",
+            "start": 973,
+            "end": 977
+        },
+        {
+            "tokens": [
+                182,
+                183,
+                184
+            ],
+            "type": "VP",
+            "start": 978,
+            "end": 992
+        },
+        {
+            "tokens": [
+                185
+            ],
+            "type": "PP",
+            "start": 993,
+            "end": 995
+        },
+        {
+            "tokens": [
+                186,
+                187,
+                188
+            ],
+            "type": "NP",
+            "start": 996,
+            "end": 1005
+        },
+        {
+            "tokens": [
+                189
+            ],
+            "type": "CP",
+            "start": 1006,
+            "end": 1008
+        },
+        {
+            "tokens": [
+                190
+            ],
+            "type": "VP",
+            "start": 1009,
+            "end": 1013
+        },
+        {
+            "tokens": [
+                191
+            ],
+            "type": "PP",
+            "start": 1014,
+            "end": 1016
+        },
+        {
+            "tokens": [
+                192,
+                193
+            ],
+            "type": "NP",
+            "start": 1017,
+            "end": 1025
+        },
+        {
+            "tokens": [
+                194
+            ],
+            "type": "DP",
+            "start": 1026,
+            "end": 1030
+        },
+        {
+            "tokens": [
+                195
+            ],
+            "type": "CP",
+            "start": 1031,
+            "end": 1038
+        },
+        {
+            "tokens": [
+                196
+            ],
+            "type": "NP",
+            "start": 1039,
+            "end": 1040
+        },
+        {
+            "tokens": [
+                197
+            ],
+            "type": "VP",
+            "start": 1041,
+            "end": 1048
+        },
+        {
+            "tokens": [
+                198,
+                199,
+                200
+            ],
+            "type": "PP",
+            "start": 1049,
+            "end": 1064
+        },
+        {
+            "tokens": [
+                201
+            ],
+            "type": "NA",
+            "start": 1064,
+            "end": 1065
+        },
+        {
+            "tokens": [
+                202
+            ],
+            "type": "CP",
+            "start": 1066,
+            "end": 1069
+        },
+        {
+            "tokens": [
+                203
+            ],
+            "type": "VP",
+            "start": 1070,
+            "end": 1072
+        },
+        {
+            "tokens": [
+                204
+            ],
+            "type": "NP",
+            "start": 1073,
+            "end": 1075
+        },
+        {
+            "tokens": [
+                205
+            ],
+            "type": "RP",
+            "start": 1076,
+            "end": 1080
+        },
+        {
+            "tokens": [
+                206
+            ],
+            "type": "CP",
+            "start": 1081,
+            "end": 1086
+        },
+        {
+            "tokens": [
+                207
+            ],
+            "type": "NP",
+            "start": 1087,
+            "end": 1088
+        },
+        {
+            "tokens": [
+                208
+            ],
+            "type": "VP",
+            "start": 1089,
+            "end": 1093
+        },
+        {
+            "tokens": [
+                209,
+                210
+            ],
+            "type": "NP",
+            "start": 1094,
+            "end": 1101
+        },
+        {
+            "tokens": [
+                211
+            ],
+            "type": "RP",
+            "start": 1102,
+            "end": 1106
+        },
+        {
+            "tokens": [
+                212
+            ],
+            "type": "NP",
+            "start": 1107,
+            "end": 1110
+        },
+        {
+            "tokens": [
+                213
+            ],
+            "type": "VP",
+            "start": 1111,
+            "end": 1118
+        },
+        {
+            "tokens": [
+                214
+            ],
+            "type": "NA",
+            "start": 1118,
+            "end": 1119
+        },
+        {
+            "tokens": [
+                215
+            ],
+            "type": "NP",
+            "start": 1120,
+            "end": 1121
+        },
+        {
+            "tokens": [
+                216,
+                217,
+                218,
+                219
+            ],
+            "type": "VP",
+            "start": 1122,
+            "end": 1137
+        },
+        {
+            "tokens": [
+                220,
+                221
+            ],
+            "type": "NP",
+            "start": 1138,
+            "end": 1146
+        },
+        {
+            "tokens": [
+                222,
+                223,
+                224
+            ],
+            "type": "PP",
+            "start": 1147,
+            "end": 1159
+        },
+        {
+            "tokens": [
+                225
+            ],
+            "type": "CP",
+            "start": 1160,
+            "end": 1164
+        },
+        {
+            "tokens": [
+                226
+            ],
+            "type": "NP",
+            "start": 1165,
+            "end": 1166
+        },
+        {
+            "tokens": [
+                227,
+                228
+            ],
+            "type": "PN",
+            "start": 1167,
+            "end": 1178
+        },
+        {
+            "tokens": [
+                229
+            ],
+            "type": "DP",
+            "start": 1179,
+            "end": 1181
+        },
+        {
+            "tokens": [
+                230
+            ],
+            "type": "NA",
+            "start": 1181,
+            "end": 1182
+        },
+        {
+            "tokens": [],
+            "type": "CR",
+            "start": 1182,
+            "end": 1182
+        },
+        {
+            "tokens": [
+                231
+            ],
+            "type": "NP",
+            "start": 1183,
+            "end": 1184
+        },
+        {
+            "tokens": [
+                232,
+                233
+            ],
+            "type": "VP",
+            "start": 1185,
+            "end": 1197
+        },
+        {
+            "tokens": [
+                234,
+                235
+            ],
+            "type": "NP",
+            "start": 1198,
+            "end": 1213
+        },
+        {
+            "tokens": [
+                236,
+                237,
+                238
+            ],
+            "type": "PP",
+            "start": 1214,
+            "end": 1227
+        },
+        {
+            "tokens": [
+                239
+            ],
+            "type": "CP",
+            "start": 1228,
+            "end": 1231
+        },
+        {
+            "tokens": [
+                240,
+                241
+            ],
+            "type": "PP",
+            "start": 1232,
+            "end": 1242
+        },
+        {
+            "tokens": [
+                242
+            ],
+            "type": "NP",
+            "start": 1243,
+            "end": 1244
+        },
+        {
+            "tokens": [
+                243,
+                244,
+                245
+            ],
+            "type": "PN",
+            "start": 1245,
+            "end": 1256
+        },
+        {
+            "tokens": [
+                246
+            ],
+            "type": "CP",
+            "start": 1257,
+            "end": 1261
+        },
+        {
+            "tokens": [
+                247
+            ],
+            "type": "NP",
+            "start": 1262,
+            "end": 1263
+        },
+        {
+            "tokens": [
+                248,
+                249,
+                250
+            ],
+            "type": "VP",
+            "start": 1264,
+            "end": 1282
+        },
+        {
+            "tokens": [
+                251,
+                252
+            ],
+            "type": "NP",
+            "start": 1283,
+            "end": 1296
+        },
+        {
+            "tokens": [
+                253
+            ],
+            "type": "CP",
+            "start": 1297,
+            "end": 1299
+        },
+        {
+            "tokens": [
+                254
+            ],
+            "type": "NP",
+            "start": 1300,
+            "end": 1308
+        },
+        {
+            "tokens": [
+                255
+            ],
+            "type": "DP",
+            "start": 1309,
+            "end": 1314
+        },
+        {
+            "tokens": [
+                256
+            ],
+            "type": "NA",
+            "start": 1314,
+            "end": 1315
+        },
+        {
+            "tokens": [
+                257
+            ],
+            "type": "NP",
+            "start": 1316,
+            "end": 1317
+        },
+        {
+            "tokens": [
+                258,
+                259
+            ],
+            "type": "VP",
+            "start": 1318,
+            "end": 1330
+        },
+        {
+            "tokens": [
+                260,
+                261
+            ],
+            "type": "VP",
+            "start": 1331,
+            "end": 1346
+        },
+        {
+            "tokens": [
+                262
+            ],
+            "type": "NP",
+            "start": 1347,
+            "end": 1350
+        },
+        {
+            "tokens": [
+                263
+            ],
+            "type": "CP",
+            "start": 1351,
+            "end": 1354
+        },
+        {
+            "tokens": [
+                264,
+                265,
+                266
+            ],
+            "type": "NP",
+            "start": 1355,
+            "end": 1377
+        },
+        {
+            "tokens": [
+                267,
+                268,
+                269,
+                270,
+                271
+            ],
+            "type": "PP",
+            "start": 1378,
+            "end": 1408
+        },
+        {
+            "tokens": [
+                272
+            ],
+            "type": "NA",
+            "start": 1408,
+            "end": 1409
+        },
+        {
+            "tokens": [
+                273
+            ],
+            "type": "VP",
+            "start": 1410,
+            "end": 1415
+        },
+        {
+            "tokens": [
+                274
+            ],
+            "type": "NP",
+            "start": 1416,
+            "end": 1419
+        },
+        {
+            "tokens": [
+                275
+            ],
+            "type": "CP",
+            "start": 1420,
+            "end": 1423
+        },
+        {
+            "tokens": [
+                276,
+                277,
+                278
+            ],
+            "type": "NP",
+            "start": 1424,
+            "end": 1443
+        },
+        {
+            "tokens": [
+                279,
+                280
+            ],
+            "type": "VP",
+            "start": 1444,
+            "end": 1451
+        },
+        {
+            "tokens": [
+                281,
+                282
+            ],
+            "type": "NP",
+            "start": 1452,
+            "end": 1462
+        },
+        {
+            "tokens": [
+                283
+            ],
+            "type": "NA",
+            "start": 1462,
+            "end": 1463
+        },
+        {
+            "tokens": [],
+            "type": "CR",
+            "start": 1463,
+            "end": 1463
+        },
+        {
+            "tokens": [
+                284
+            ],
+            "type": "DP",
+            "start": 1464,
+            "end": 1473
+        },
+        {
+            "tokens": [
+                285
+            ],
+            "type": "NA",
+            "start": 1473,
+            "end": 1474
+        },
+        {
+            "tokens": [],
+            "type": "CR",
+            "start": 1474,
+            "end": 1474
+        },
+        {
+            "tokens": [
+                286
+            ],
+            "type": "NP",
+            "start": 1475,
+            "end": 1489
+        },
+        {
+            "tokens": [],
+            "type": "CR",
+            "start": 1489,
+            "end": 1489
+        }
+    ],
+    "tokens": [
+        {
+            "syncon": 82959,
+            "start": 0,
+            "end": 4,
+            "type": "ADJ",
+            "lemma": "dear",
+            "pos": "_",
+            "paragraph": 0,
+            "sentence": 0,
+            "phrase": 0
+        },
+        {
+            "syncon": -1,
+            "vsyn": {
+                "id": -436167,
+                "parent": 73221
+            },
+            "start": 5,
+            "end": 9,
+            "type": "NPR.NPH",
+            "lemma": "Emma",
+            "pos": "_",
+            "paragraph": 0,
+            "sentence": 0,
+            "phrase": 0,
+            "atoms": [
+                {
+                    "start": 5,
+                    "end": 9,
+                    "type": "NPR.NPH",
+                    "lemma": "Emma"
+                }
+            ]
+        },
+        {
+            "syncon": -1,
+            "start": 9,
+            "end": 10,
+            "type": "PNT",
+            "lemma": ",",
+            "pos": "_",
+            "paragraph": 0,
+            "sentence": 0,
+            "phrase": 1
+        },
+        {
+            "syncon": -1,
+            "start": 11,
+            "end": 12,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 3
+        },
+        {
+            "syncon": -1,
+            "start": 13,
+            "end": 15,
+            "type": "AUX",
+            "lemma": "am",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 4
+        },
+        {
+            "syncon": 66574,
+            "start": 16,
+            "end": 23,
+            "type": "VER",
+            "lemma": "write",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 4
+        },
+        {
+            "syncon": -1,
+            "start": 24,
+            "end": 28,
+            "type": "ADJ",
+            "lemma": "this",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 5
+        },
+        {
+            "syncon": 97979,
+            "start": 29,
+            "end": 34,
+            "type": "NOU",
+            "lemma": "email",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 5
+        },
+        {
+            "syncon": -1,
+            "start": 35,
+            "end": 37,
+            "type": "PRE",
+            "lemma": "to",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 6
+        },
+        {
+            "syncon": -1,
+            "start": 38,
+            "end": 41,
+            "type": "PRO",
+            "lemma": "you",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 6
+        },
+        {
+            "syncon": 170975,
+            "start": 42,
+            "end": 49,
+            "type": "CON",
+            "lemma": "because",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 7
+        },
+        {
+            "syncon": -1,
+            "start": 50,
+            "end": 52,
+            "type": "ADJ",
+            "lemma": "my",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 8
+        },
+        {
+            "syncon": 34052,
+            "start": 53,
+            "end": 69,
+            "type": "NOU",
+            "lemma": "chicken sandwich",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 8,
+            "atoms": [
+                {
+                    "start": 53,
+                    "end": 60,
+                    "type": "ADJ",
+                    "lemma": "chicken"
+                },
+                {
+                    "start": 61,
+                    "end": 69,
+                    "type": "NOU",
+                    "lemma": "sandwich"
+                }
+            ]
+        },
+        {
+            "syncon": -1,
+            "start": 70,
+            "end": 73,
+            "type": "AUX",
+            "lemma": "was",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 9
+        },
+        {
+            "syncon": 63316,
+            "start": 74,
+            "end": 78,
+            "type": "VER",
+            "lemma": "make",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 9
+        },
+        {
+            "syncon": 159217,
+            "start": 79,
+            "end": 90,
+            "type": "ADV",
+            "lemma": "incorrectly",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 10
+        },
+        {
+            "syncon": 65201,
+            "start": 91,
+            "end": 96,
+            "type": "VER",
+            "lemma": "base",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 10
+        },
+        {
+            "syncon": -1,
+            "start": 97,
+            "end": 99,
+            "type": "PRE",
+            "lemma": "on",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 11
+        },
+        {
+            "syncon": -1,
+            "start": 100,
+            "end": 102,
+            "type": "ADJ",
+            "lemma": "my",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 11
+        },
+        {
+            "syncon": 141307,
+            "start": 103,
+            "end": 109,
+            "type": "ADJ",
+            "lemma": "online",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 11
+        },
+        {
+            "syncon": 3865,
+            "start": 110,
+            "end": 115,
+            "type": "NOU",
+            "lemma": "order",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 11
+        },
+        {
+            "syncon": -1,
+            "start": 116,
+            "end": 120,
+            "type": "PRE",
+            "lemma": "with",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 12
+        },
+        {
+            "syncon": 78075,
+            "start": 121,
+            "end": 129,
+            "type": "ADJ",
+            "lemma": "complete",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 12
+        },
+        {
+            "syncon": 25959,
+            "start": 130,
+            "end": 139,
+            "type": "NOU",
+            "lemma": "disregard",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 12
+        },
+        {
+            "syncon": -1,
+            "start": 140,
+            "end": 143,
+            "type": "PRE",
+            "lemma": "for",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 13
+        },
+        {
+            "syncon": -1,
+            "start": 144,
+            "end": 146,
+            "type": "ADJ",
+            "lemma": "my",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 13
+        },
+        {
+            "syncon": 59630,
+            "start": 147,
+            "end": 154,
+            "type": "NOU",
+            "lemma": "allergy",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 13
+        },
+        {
+            "syncon": -1,
+            "start": 154,
+            "end": 155,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 1,
+            "phrase": 14
+        },
+        {
+            "syncon": -1,
+            "start": 156,
+            "end": 160,
+            "type": "ADJ",
+            "lemma": "this",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 2,
+            "phrase": 15
+        },
+        {
+            "syncon": 57432,
+            "start": 161,
+            "end": 169,
+            "type": "NOU",
+            "lemma": "incident",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 2,
+            "phrase": 15
+        },
+        {
+            "syncon": 64155,
+            "start": 170,
+            "end": 178,
+            "type": "VER",
+            "lemma": "happen",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 2,
+            "phrase": 16
+        },
+        {
+            "syncon": -1,
+            "start": 179,
+            "end": 181,
+            "type": "PRE",
+            "lemma": "on",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 2,
+            "phrase": 17
+        },
+        {
+            "syncon": -1,
+            "vsyn": {
+                "id": -436163,
+                "parent": 62316
+            },
+            "start": 182,
+            "end": 199,
+            "type": "NOU.DAT",
+            "lemma": "Jan-9-2019",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 2,
+            "phrase": 17,
+            "atoms": [
+                {
+                    "start": 182,
+                    "end": 189,
+                    "type": "NOU",
+                    "lemma": "January"
+                },
+                {
+                    "start": 190,
+                    "end": 191,
+                    "type": "NOU",
+                    "lemma": "9"
+                },
+                {
+                    "start": 191,
+                    "end": 194,
+                    "type": "NOU",
+                    "lemma": "th,"
+                },
+                {
+                    "start": 195,
+                    "end": 199,
+                    "type": "NOU",
+                    "lemma": "2019"
+                }
+            ]
+        },
+        {
+            "syncon": -1,
+            "start": 200,
+            "end": 202,
+            "type": "PRE",
+            "lemma": "at",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 2,
+            "phrase": 18
+        },
+        {
+            "syncon": -1,
+            "start": 203,
+            "end": 207,
+            "type": "ADJ",
+            "lemma": "your",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 2,
+            "phrase": 18
+        },
+        {
+            "syncon": 198198,
+            "start": 208,
+            "end": 218,
+            "type": "NPR.GEO",
+            "lemma": "Austin",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 2,
+            "phrase": 18,
+            "atoms": [
+                {
+                    "start": 208,
+                    "end": 214,
+                    "type": "NOU",
+                    "lemma": "Austin"
+                },
+                {
+                    "start": 214,
+                    "end": 215,
+                    "type": "PNT",
+                    "lemma": ","
+                },
+                {
+                    "start": 216,
+                    "end": 218,
+                    "type": "NOU",
+                    "lemma": "TX"
+                }
+            ]
+        },
+        {
+            "syncon": 92133,
+            "start": 219,
+            "end": 227,
+            "type": "NOU",
+            "lemma": "location",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 2,
+            "phrase": 19
+        },
+        {
+            "syncon": -1,
+            "start": 227,
+            "end": 228,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 1,
+            "sentence": 2,
+            "phrase": 20
+        },
+        {
+            "syncon": -1,
+            "start": 229,
+            "end": 230,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 22
+        },
+        {
+            "syncon": -1,
+            "start": 231,
+            "end": 235,
+            "type": "AUX",
+            "lemma": "have",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 23
+        },
+        {
+            "syncon": 65546,
+            "start": 236,
+            "end": 243,
+            "type": "VER",
+            "lemma": "order",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 23
+        },
+        {
+            "syncon": -1,
+            "start": 244,
+            "end": 248,
+            "type": "ADJ",
+            "lemma": "this",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 24
+        },
+        {
+            "syncon": 34049,
+            "start": 249,
+            "end": 257,
+            "type": "NOU",
+            "lemma": "sandwich",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 24
+        },
+        {
+            "syncon": 83474,
+            "start": 258,
+            "end": 262,
+            "type": "ADJ",
+            "lemma": "many",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 25
+        },
+        {
+            "syncon": 32071,
+            "start": 263,
+            "end": 268,
+            "type": "NOU",
+            "lemma": "time",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 25
+        },
+        {
+            "syncon": -1,
+            "start": 269,
+            "end": 272,
+            "type": "CON",
+            "lemma": "and",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 26
+        },
+        {
+            "syncon": -1,
+            "start": 273,
+            "end": 277,
+            "type": "AUX",
+            "lemma": "have",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 27
+        },
+        {
+            "syncon": 132891,
+            "start": 278,
+            "end": 281,
+            "type": "VER",
+            "lemma": "have",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 27
+        },
+        {
+            "syncon": 82699,
+            "start": 282,
+            "end": 287,
+            "type": "ADJ",
+            "lemma": "small",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 28
+        },
+        {
+            "syncon": 29787,
+            "start": 288,
+            "end": 296,
+            "type": "NOU",
+            "lemma": "problem",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 28
+        },
+        {
+            "syncon": 157933,
+            "start": 297,
+            "end": 308,
+            "type": "ADV",
+            "lemma": "in the past",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 29,
+            "atoms": [
+                {
+                    "start": 297,
+                    "end": 299,
+                    "type": "PRE",
+                    "lemma": "in"
+                },
+                {
+                    "start": 300,
+                    "end": 303,
+                    "type": "ART",
+                    "lemma": "the"
+                },
+                {
+                    "start": 304,
+                    "end": 308,
+                    "type": "ADJ",
+                    "lemma": "past"
+                }
+            ]
+        },
+        {
+            "syncon": 160458,
+            "start": 309,
+            "end": 312,
+            "type": "CON",
+            "lemma": "but",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 30
+        },
+        {
+            "syncon": -1,
+            "start": 312,
+            "end": 313,
+            "type": "PNT",
+            "lemma": ",",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 31
+        },
+        {
+            "syncon": 159490,
+            "start": 314,
+            "end": 317,
+            "type": "ADV",
+            "lemma": "not",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 32
+        },
+        {
+            "syncon": 185212,
+            "start": 318,
+            "end": 322,
+            "type": "PRE",
+            "lemma": "like",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 32
+        },
+        {
+            "syncon": -1,
+            "start": 323,
+            "end": 327,
+            "type": "PRO",
+            "lemma": "this",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 32
+        },
+        {
+            "syncon": -1,
+            "start": 327,
+            "end": 328,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 3,
+            "phrase": 33
+        },
+        {
+            "syncon": -1,
+            "start": 329,
+            "end": 330,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 4,
+            "phrase": 34
+        },
+        {
+            "syncon": 65576,
+            "start": 331,
+            "end": 338,
+            "type": "VER",
+            "lemma": "order",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 4,
+            "phrase": 35
+        },
+        {
+            "syncon": -1,
+            "start": 339,
+            "end": 340,
+            "type": "ART",
+            "lemma": "a",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 4,
+            "phrase": 36
+        },
+        {
+            "syncon": 34052,
+            "start": 341,
+            "end": 357,
+            "type": "NOU",
+            "lemma": "chicken sandwich",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 4,
+            "phrase": 36,
+            "atoms": [
+                {
+                    "start": 341,
+                    "end": 348,
+                    "type": "ADJ",
+                    "lemma": "chicken"
+                },
+                {
+                    "start": 349,
+                    "end": 357,
+                    "type": "NOU",
+                    "lemma": "sandwich"
+                }
+            ]
+        },
+        {
+            "syncon": -1,
+            "start": 358,
+            "end": 362,
+            "type": "PRE",
+            "lemma": "with",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 4,
+            "phrase": 37
+        },
+        {
+            "syncon": 87202,
+            "start": 363,
+            "end": 365,
+            "type": "ADJ",
+            "lemma": "no",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 4,
+            "phrase": 37
+        },
+        {
+            "syncon": 34263,
+            "start": 366,
+            "end": 375,
+            "type": "NOU",
+            "lemma": "mushroom",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 4,
+            "phrase": 37
+        },
+        {
+            "syncon": -1,
+            "start": 375,
+            "end": 376,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 4,
+            "phrase": 38
+        },
+        {
+            "syncon": -1,
+            "start": 377,
+            "end": 379,
+            "type": "PRE",
+            "lemma": "On",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 39
+        },
+        {
+            "syncon": -1,
+            "start": 380,
+            "end": 383,
+            "type": "ART",
+            "lemma": "the",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 39
+        },
+        {
+            "syncon": 28623,
+            "start": 384,
+            "end": 389,
+            "type": "NOU",
+            "lemma": "note",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 39
+        },
+        {
+            "syncon": -1,
+            "start": 390,
+            "end": 391,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 40
+        },
+        {
+            "syncon": 93346,
+            "start": 392,
+            "end": 401,
+            "type": "VER",
+            "lemma": "mention",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 41
+        },
+        {
+            "syncon": 205308,
+            "start": 402,
+            "end": 406,
+            "type": "CON",
+            "lemma": "that",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 42
+        },
+        {
+            "syncon": -1,
+            "start": 407,
+            "end": 408,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 43
+        },
+        {
+            "syncon": 72504,
+            "start": 409,
+            "end": 411,
+            "type": "VER",
+            "lemma": "be",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 44
+        },
+        {
+            "syncon": 158997,
+            "start": 412,
+            "end": 421,
+            "type": "ADV",
+            "lemma": "extremely",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 44
+        },
+        {
+            "syncon": 89079,
+            "start": 422,
+            "end": 430,
+            "type": "ADJ",
+            "lemma": "allergic",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 44
+        },
+        {
+            "syncon": -1,
+            "start": 431,
+            "end": 433,
+            "type": "PRE",
+            "lemma": "to",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 45
+        },
+        {
+            "syncon": 53203,
+            "start": 434,
+            "end": 443,
+            "type": "NOU",
+            "lemma": "mushroom",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 45
+        },
+        {
+            "syncon": -1,
+            "start": 444,
+            "end": 447,
+            "type": "CON",
+            "lemma": "and",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 46
+        },
+        {
+            "syncon": -1,
+            "start": 448,
+            "end": 450,
+            "type": "PRE",
+            "lemma": "to",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 47
+        },
+        {
+            "syncon": -1,
+            "start": 451,
+            "end": 457,
+            "type": "ADV",
+            "lemma": "please",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 47
+        },
+        {
+            "syncon": 66070,
+            "start": 458,
+            "end": 464,
+            "type": "VER",
+            "lemma": "ensure",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 47
+        },
+        {
+            "syncon": 205308,
+            "start": 465,
+            "end": 469,
+            "type": "CON",
+            "lemma": "that",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 48
+        },
+        {
+            "syncon": 87202,
+            "start": 470,
+            "end": 472,
+            "type": "ADJ",
+            "lemma": "no",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 49
+        },
+        {
+            "syncon": 34263,
+            "start": 473,
+            "end": 482,
+            "type": "NOU",
+            "lemma": "mushroom",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 49
+        },
+        {
+            "syncon": 109407,
+            "start": 483,
+            "end": 487,
+            "type": "VER",
+            "lemma": "be",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 50
+        },
+        {
+            "syncon": -1,
+            "start": 488,
+            "end": 490,
+            "type": "PRE",
+            "lemma": "on",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 51
+        },
+        {
+            "syncon": -1,
+            "start": 491,
+            "end": 494,
+            "type": "ART",
+            "lemma": "the",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 51
+        },
+        {
+            "syncon": 34049,
+            "start": 495,
+            "end": 503,
+            "type": "NOU",
+            "lemma": "sandwich",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 51
+        },
+        {
+            "syncon": -1,
+            "start": 503,
+            "end": 504,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 5,
+            "phrase": 52
+        },
+        {
+            "syncon": -1,
+            "start": 505,
+            "end": 506,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 53
+        },
+        {
+            "syncon": -1,
+            "start": 507,
+            "end": 516,
+            "type": "VER",
+            "lemma": "unclick",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 54
+        },
+        {
+            "syncon": -1,
+            "start": 517,
+            "end": 520,
+            "type": "ART",
+            "lemma": "the",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 55
+        },
+        {
+            "syncon": 53203,
+            "start": 521,
+            "end": 529,
+            "type": "NOU",
+            "lemma": "mushroom",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 55
+        },
+        {
+            "syncon": 26275,
+            "start": 530,
+            "end": 536,
+            "type": "NOU",
+            "lemma": "option",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 55
+        },
+        {
+            "syncon": -1,
+            "start": 537,
+            "end": 539,
+            "type": "PRE",
+            "lemma": "on",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 56
+        },
+        {
+            "syncon": -1,
+            "start": 540,
+            "end": 543,
+            "type": "ART",
+            "lemma": "the",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 56
+        },
+        {
+            "syncon": 28899,
+            "start": 544,
+            "end": 547,
+            "type": "NOU",
+            "lemma": "app",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 56
+        },
+        {
+            "syncon": 160511,
+            "start": 548,
+            "end": 553,
+            "type": "ADV",
+            "lemma": "along",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 57
+        },
+        {
+            "syncon": -1,
+            "start": 554,
+            "end": 558,
+            "type": "PRE",
+            "lemma": "with",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 58
+        },
+        {
+            "syncon": 86222,
+            "start": 559,
+            "end": 564,
+            "type": "ADJ",
+            "lemma": "other",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 58
+        },
+        {
+            "syncon": 33580,
+            "start": 565,
+            "end": 573,
+            "type": "NOU",
+            "lemma": "topping",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 58
+        },
+        {
+            "syncon": 205308,
+            "start": 574,
+            "end": 578,
+            "type": "CON",
+            "lemma": "that",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 59
+        },
+        {
+            "syncon": -1,
+            "start": 579,
+            "end": 580,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 60
+        },
+        {
+            "syncon": -1,
+            "start": 581,
+            "end": 584,
+            "type": "AUX",
+            "lemma": "did",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 61
+        },
+        {
+            "syncon": 159490,
+            "start": 585,
+            "end": 588,
+            "type": "ADV",
+            "lemma": "not",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 61
+        },
+        {
+            "syncon": 69694,
+            "start": 589,
+            "end": 593,
+            "type": "VER",
+            "lemma": "want",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 61
+        },
+        {
+            "syncon": -1,
+            "start": 594,
+            "end": 596,
+            "type": "PRE",
+            "lemma": "to",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 62
+        },
+        {
+            "syncon": -1,
+            "start": 597,
+            "end": 599,
+            "type": "AUX",
+            "lemma": "be",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 62
+        },
+        {
+            "syncon": 72602,
+            "start": 600,
+            "end": 608,
+            "type": "VER",
+            "lemma": "include",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 62
+        },
+        {
+            "syncon": -1,
+            "start": 608,
+            "end": 609,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 6,
+            "phrase": 63
+        },
+        {
+            "syncon": -1,
+            "start": 610,
+            "end": 611,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 64
+        },
+        {
+            "syncon": 71384,
+            "start": 612,
+            "end": 621,
+            "type": "VER",
+            "lemma": "pick up",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 65,
+            "atoms": [
+                {
+                    "start": 612,
+                    "end": 618,
+                    "type": "VER",
+                    "lemma": "pick"
+                },
+                {
+                    "start": 619,
+                    "end": 621,
+                    "type": "ADV",
+                    "lemma": "up"
+                }
+            ]
+        },
+        {
+            "syncon": -1,
+            "start": 622,
+            "end": 624,
+            "type": "ADJ",
+            "lemma": "my",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 66
+        },
+        {
+            "syncon": 34049,
+            "start": 625,
+            "end": 633,
+            "type": "NOU",
+            "lemma": "sandwich",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 66
+        },
+        {
+            "syncon": -1,
+            "start": 634,
+            "end": 637,
+            "type": "CON",
+            "lemma": "and",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 67
+        },
+        {
+            "syncon": -1,
+            "start": 638,
+            "end": 640,
+            "type": "PRO",
+            "lemma": "it",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 68
+        },
+        {
+            "syncon": 72591,
+            "start": 641,
+            "end": 644,
+            "type": "VER",
+            "lemma": "have",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 69
+        },
+        {
+            "syncon": 78078,
+            "start": 645,
+            "end": 648,
+            "type": "ADJ",
+            "lemma": "all",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 70
+        },
+        {
+            "syncon": -1,
+            "start": 649,
+            "end": 652,
+            "type": "ART",
+            "lemma": "the",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 70
+        },
+        {
+            "syncon": 33580,
+            "start": 653,
+            "end": 661,
+            "type": "NOU",
+            "lemma": "topping",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 70
+        },
+        {
+            "syncon": -1,
+            "start": 662,
+            "end": 664,
+            "type": "PRE",
+            "lemma": "on",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 71
+        },
+        {
+            "syncon": -1,
+            "start": 665,
+            "end": 667,
+            "type": "PRO",
+            "lemma": "it",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 71
+        },
+        {
+            "syncon": 72602,
+            "start": 668,
+            "end": 677,
+            "type": "VER",
+            "lemma": "include",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 72
+        },
+        {
+            "syncon": -1,
+            "start": 678,
+            "end": 681,
+            "type": "ART",
+            "lemma": "the",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 73
+        },
+        {
+            "syncon": 86222,
+            "start": 682,
+            "end": 687,
+            "type": "ADJ",
+            "lemma": "other",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 73
+        },
+        {
+            "syncon": 33580,
+            "start": 688,
+            "end": 696,
+            "type": "NOU",
+            "lemma": "topping",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 73
+        },
+        {
+            "syncon": -1,
+            "start": 697,
+            "end": 701,
+            "type": "PRO",
+            "lemma": "that",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 74
+        },
+        {
+            "syncon": -1,
+            "start": 702,
+            "end": 703,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 75
+        },
+        {
+            "syncon": -1,
+            "start": 704,
+            "end": 707,
+            "type": "AUX",
+            "lemma": "had",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 76
+        },
+        {
+            "syncon": -1,
+            "start": 708,
+            "end": 717,
+            "type": "VER",
+            "lemma": "unclick",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 76
+        },
+        {
+            "syncon": -1,
+            "start": 717,
+            "end": 718,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 7,
+            "phrase": 77
+        },
+        {
+            "syncon": 208724,
+            "start": 719,
+            "end": 726,
+            "type": "PRE",
+            "lemma": "despite",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 78
+        },
+        {
+            "syncon": -1,
+            "start": 727,
+            "end": 730,
+            "type": "ART",
+            "lemma": "the",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 78
+        },
+        {
+            "syncon": 75654,
+            "start": 731,
+            "end": 736,
+            "type": "ADJ",
+            "lemma": "extra",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 78
+        },
+        {
+            "syncon": 28623,
+            "start": 737,
+            "end": 742,
+            "type": "NOU",
+            "lemma": "note",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 78
+        },
+        {
+            "syncon": -1,
+            "start": 743,
+            "end": 745,
+            "type": "PRE",
+            "lemma": "in",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 79
+        },
+        {
+            "syncon": -1,
+            "start": 746,
+            "end": 749,
+            "type": "ART",
+            "lemma": "the",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 79
+        },
+        {
+            "syncon": 29719,
+            "start": 750,
+            "end": 757,
+            "type": "NOU",
+            "lemma": "comment",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 79
+        },
+        {
+            "syncon": 26550,
+            "start": 758,
+            "end": 765,
+            "type": "NOU",
+            "lemma": "section",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 79
+        },
+        {
+            "syncon": -1,
+            "start": 765,
+            "end": 766,
+            "type": "PNT",
+            "lemma": ",",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 80
+        },
+        {
+            "syncon": -1,
+            "start": 767,
+            "end": 770,
+            "type": "ART",
+            "lemma": "the",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 81
+        },
+        {
+            "syncon": 34263,
+            "start": 771,
+            "end": 780,
+            "type": "NOU",
+            "lemma": "mushroom",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 81
+        },
+        {
+            "syncon": 109407,
+            "start": 781,
+            "end": 785,
+            "type": "VER",
+            "lemma": "be",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 82
+        },
+        {
+            "syncon": -1,
+            "start": 786,
+            "end": 788,
+            "type": "PRE",
+            "lemma": "on",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 83
+        },
+        {
+            "syncon": -1,
+            "start": 789,
+            "end": 791,
+            "type": "PRO",
+            "lemma": "it",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 83
+        },
+        {
+            "syncon": 160715,
+            "start": 792,
+            "end": 795,
+            "type": "ADV",
+            "lemma": "too",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 84
+        },
+        {
+            "syncon": -1,
+            "start": 795,
+            "end": 796,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 8,
+            "phrase": 85
+        },
+        {
+            "syncon": -1,
+            "start": 797,
+            "end": 798,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 9,
+            "phrase": 86
+        },
+        {
+            "syncon": -1,
+            "start": 799,
+            "end": 804,
+            "type": "AUX",
+            "lemma": "could",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 9,
+            "phrase": 87
+        },
+        {
+            "syncon": 159490,
+            "start": 805,
+            "end": 808,
+            "type": "ADV",
+            "lemma": "not",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 9,
+            "phrase": 87
+        },
+        {
+            "syncon": 67140,
+            "start": 809,
+            "end": 812,
+            "type": "VER",
+            "lemma": "eat",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 9,
+            "phrase": 87
+        },
+        {
+            "syncon": -1,
+            "start": 813,
+            "end": 815,
+            "type": "ADJ",
+            "lemma": "my",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 9,
+            "phrase": 88
+        },
+        {
+            "syncon": 34049,
+            "start": 816,
+            "end": 824,
+            "type": "NOU",
+            "lemma": "sandwich",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 9,
+            "phrase": 88
+        },
+        {
+            "syncon": 168383,
+            "start": 825,
+            "end": 832,
+            "type": "CON",
+            "lemma": "even if",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 9,
+            "phrase": 89,
+            "atoms": [
+                {
+                    "start": 825,
+                    "end": 829,
+                    "type": "ADV",
+                    "lemma": "even"
+                },
+                {
+                    "start": 830,
+                    "end": 832,
+                    "type": "CON",
+                    "lemma": "if"
+                }
+            ]
+        },
+        {
+            "syncon": -1,
+            "start": 833,
+            "end": 834,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 9,
+            "phrase": 90
+        },
+        {
+            "syncon": 69694,
+            "start": 835,
+            "end": 841,
+            "type": "VER",
+            "lemma": "want",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 9,
+            "phrase": 91
+        },
+        {
+            "syncon": -1,
+            "start": 842,
+            "end": 844,
+            "type": "PRE",
+            "lemma": "to",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 9,
+            "phrase": 92
+        },
+        {
+            "syncon": -1,
+            "start": 844,
+            "end": 845,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 9,
+            "phrase": 93
+        },
+        {
+            "syncon": -1,
+            "start": 846,
+            "end": 847,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 10,
+            "phrase": 94
+        },
+        {
+            "syncon": 65182,
+            "start": 848,
+            "end": 853,
+            "type": "VER",
+            "lemma": "think",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 10,
+            "phrase": 95
+        },
+        {
+            "syncon": -1,
+            "start": 854,
+            "end": 856,
+            "type": "PRO",
+            "lemma": "it",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 10,
+            "phrase": 96
+        },
+        {
+            "syncon": 72504,
+            "start": 857,
+            "end": 859,
+            "type": "VER",
+            "lemma": "be",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 10,
+            "phrase": 97
+        },
+        {
+            "syncon": 81196,
+            "start": 860,
+            "end": 868,
+            "type": "ADJ",
+            "lemma": "terrible",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 10,
+            "phrase": 97
+        },
+        {
+            "syncon": 205308,
+            "start": 869,
+            "end": 873,
+            "type": "CON",
+            "lemma": "that",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 10,
+            "phrase": 98
+        },
+        {
+            "syncon": 59630,
+            "start": 874,
+            "end": 883,
+            "type": "NOU",
+            "lemma": "allergy",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 10,
+            "phrase": 99
+        },
+        {
+            "syncon": -1,
+            "start": 884,
+            "end": 888,
+            "type": "AUX",
+            "lemma": "were",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 10,
+            "phrase": 100
+        },
+        {
+            "syncon": 157705,
+            "start": 889,
+            "end": 899,
+            "type": "ADV",
+            "lemma": "completely",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 10,
+            "phrase": 100
+        },
+        {
+            "syncon": 66697,
+            "start": 900,
+            "end": 911,
+            "type": "VER",
+            "lemma": "disregard",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 10,
+            "phrase": 100
+        },
+        {
+            "syncon": -1,
+            "start": 912,
+            "end": 914,
+            "type": "PRE",
+            "lemma": "in",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 10,
+            "phrase": 101
+        },
+        {
+            "syncon": -1,
+            "start": 915,
+            "end": 919,
+            "type": "ADJ",
+            "lemma": "this",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 10,
+            "phrase": 101
+        },
+        {
+            "syncon": 3865,
+            "start": 920,
+            "end": 925,
+            "type": "NOU",
+            "lemma": "order",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 10,
+            "phrase": 101
+        },
+        {
+            "syncon": -1,
+            "start": 925,
+            "end": 926,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 2,
+            "sentence": 10,
+            "phrase": 102
+        },
+        {
+            "syncon": 160221,
+            "start": 927,
+            "end": 931,
+            "type": "CON",
+            "lemma": "when",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 104
+        },
+        {
+            "syncon": -1,
+            "start": 932,
+            "end": 933,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 105
+        },
+        {
+            "syncon": 65558,
+            "start": 934,
+            "end": 940,
+            "type": "VER",
+            "lemma": "call",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 106
+        },
+        {
+            "syncon": -1,
+            "start": 941,
+            "end": 944,
+            "type": "ART",
+            "lemma": "the",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 107
+        },
+        {
+            "syncon": 19512,
+            "start": 945,
+            "end": 950,
+            "type": "NOU",
+            "lemma": "store",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 107
+        },
+        {
+            "syncon": -1,
+            "start": 951,
+            "end": 953,
+            "type": "PRE",
+            "lemma": "to",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 108
+        },
+        {
+            "syncon": 66129,
+            "start": 954,
+            "end": 962,
+            "type": "VER",
+            "lemma": "complain",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 108
+        },
+        {
+            "syncon": -1,
+            "start": 963,
+            "end": 967,
+            "type": "PRO",
+            "lemma": "they",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 109
+        },
+        {
+            "syncon": 137508,
+            "start": 968,
+            "end": 972,
+            "type": "VER",
+            "lemma": "say",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 110
+        },
+        {
+            "syncon": -1,
+            "start": 973,
+            "end": 977,
+            "type": "PRO",
+            "lemma": "they",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 111
+        },
+        {
+            "syncon": -1,
+            "start": 978,
+            "end": 983,
+            "type": "AUX",
+            "lemma": "would",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 112
+        },
+        {
+            "syncon": 159490,
+            "start": 984,
+            "end": 987,
+            "type": "ADV",
+            "lemma": "not",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 112
+        },
+        {
+            "syncon": 68296,
+            "start": 988,
+            "end": 992,
+            "type": "VER",
+            "lemma": "send",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 112
+        },
+        {
+            "syncon": -1,
+            "start": 993,
+            "end": 995,
+            "type": "PRO",
+            "lemma": "me",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 113
+        },
+        {
+            "syncon": -1,
+            "start": 996,
+            "end": 997,
+            "type": "ART",
+            "lemma": "a",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 114
+        },
+        {
+            "syncon": 83964,
+            "start": 998,
+            "end": 1001,
+            "type": "ADJ",
+            "lemma": "new",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 114
+        },
+        {
+            "syncon": -1,
+            "start": 1002,
+            "end": 1005,
+            "type": "PRO",
+            "lemma": "one",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 114
+        },
+        {
+            "syncon": -1,
+            "start": 1006,
+            "end": 1008,
+            "type": "CON",
+            "lemma": "or",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 115
+        },
+        {
+            "syncon": 71665,
+            "start": 1009,
+            "end": 1013,
+            "type": "VER",
+            "lemma": "give",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 116
+        },
+        {
+            "syncon": -1,
+            "start": 1014,
+            "end": 1016,
+            "type": "PRO",
+            "lemma": "me",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 117
+        },
+        {
+            "syncon": -1,
+            "start": 1017,
+            "end": 1019,
+            "type": "ADJ",
+            "lemma": "my",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 118
+        },
+        {
+            "syncon": 54994,
+            "start": 1020,
+            "end": 1025,
+            "type": "NOU",
+            "lemma": "money",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 118
+        },
+        {
+            "syncon": 157662,
+            "start": 1026,
+            "end": 1030,
+            "type": "ADV",
+            "lemma": "back",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 119
+        },
+        {
+            "syncon": 170975,
+            "start": 1031,
+            "end": 1038,
+            "type": "CON",
+            "lemma": "because",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 120
+        },
+        {
+            "syncon": -1,
+            "start": 1039,
+            "end": 1040,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 121
+        },
+        {
+            "syncon": 65579,
+            "start": 1041,
+            "end": 1048,
+            "type": "VER",
+            "lemma": "order",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 122
+        },
+        {
+            "syncon": 217739,
+            "start": 1049,
+            "end": 1056,
+            "type": "PRE",
+            "lemma": "through",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 123
+        },
+        {
+            "syncon": -1,
+            "start": 1057,
+            "end": 1060,
+            "type": "ART",
+            "lemma": "the",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 123
+        },
+        {
+            "syncon": 28899,
+            "start": 1061,
+            "end": 1064,
+            "type": "NOU",
+            "lemma": "app",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 123
+        },
+        {
+            "syncon": -1,
+            "start": 1064,
+            "end": 1065,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 11,
+            "phrase": 124
+        },
+        {
+            "syncon": -1,
+            "start": 1066,
+            "end": 1069,
+            "type": "CON",
+            "lemma": "why",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 125
+        },
+        {
+            "syncon": 64155,
+            "start": 1070,
+            "end": 1072,
+            "type": "VER",
+            "lemma": "be",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 126
+        },
+        {
+            "syncon": -1,
+            "start": 1073,
+            "end": 1075,
+            "type": "PRO",
+            "lemma": "it",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 127
+        },
+        {
+            "syncon": -1,
+            "start": 1076,
+            "end": 1080,
+            "type": "PRO",
+            "lemma": "that",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 128
+        },
+        {
+            "syncon": 160995,
+            "start": 1081,
+            "end": 1086,
+            "type": "CON",
+            "lemma": "since",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 129
+        },
+        {
+            "syncon": -1,
+            "start": 1087,
+            "end": 1088,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 130
+        },
+        {
+            "syncon": 67109,
+            "start": 1089,
+            "end": 1093,
+            "type": "VER",
+            "lemma": "use",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 131
+        },
+        {
+            "syncon": -1,
+            "start": 1094,
+            "end": 1097,
+            "type": "ART",
+            "lemma": "the",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 132
+        },
+        {
+            "syncon": 28899,
+            "start": 1098,
+            "end": 1101,
+            "type": "NOU",
+            "lemma": "app",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 132
+        },
+        {
+            "syncon": 28899,
+            "start": 1102,
+            "end": 1106,
+            "type": "PRO",
+            "lemma": "app",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 133
+        },
+        {
+            "syncon": -1,
+            "start": 1107,
+            "end": 1110,
+            "type": "PRO",
+            "lemma": "you",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 134
+        },
+        {
+            "syncon": 72322,
+            "start": 1111,
+            "end": 1118,
+            "type": "VER",
+            "lemma": "promote",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 135
+        },
+        {
+            "syncon": -1,
+            "start": 1118,
+            "end": 1119,
+            "type": "PNT",
+            "lemma": ",",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 136
+        },
+        {
+            "syncon": -1,
+            "start": 1120,
+            "end": 1121,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 137
+        },
+        {
+            "syncon": -1,
+            "start": 1122,
+            "end": 1125,
+            "type": "AUX",
+            "lemma": "can",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 138
+        },
+        {
+            "syncon": 159490,
+            "start": 1125,
+            "end": 1128,
+            "type": "ADV",
+            "lemma": "not",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 138
+        },
+        {
+            "syncon": -1,
+            "start": 1129,
+            "end": 1131,
+            "type": "AUX",
+            "lemma": "be",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 138
+        },
+        {
+            "syncon": 71097,
+            "start": 1132,
+            "end": 1137,
+            "type": "VER",
+            "lemma": "give",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 138
+        },
+        {
+            "syncon": -1,
+            "start": 1138,
+            "end": 1139,
+            "type": "ART",
+            "lemma": "a",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 139
+        },
+        {
+            "syncon": 54506,
+            "start": 1140,
+            "end": 1146,
+            "type": "NOU",
+            "lemma": "refund",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 139
+        },
+        {
+            "syncon": -1,
+            "start": 1147,
+            "end": 1150,
+            "type": "PRE",
+            "lemma": "for",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 140
+        },
+        {
+            "syncon": -1,
+            "start": 1151,
+            "end": 1153,
+            "type": "ART",
+            "lemma": "an",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 140
+        },
+        {
+            "syncon": 3865,
+            "start": 1154,
+            "end": 1159,
+            "type": "NOU",
+            "lemma": "order",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 140
+        },
+        {
+            "syncon": 205308,
+            "start": 1160,
+            "end": 1164,
+            "type": "CON",
+            "lemma": "that",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 141
+        },
+        {
+            "syncon": -1,
+            "start": 1165,
+            "end": 1166,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 142
+        },
+        {
+            "syncon": 72504,
+            "start": 1167,
+            "end": 1169,
+            "type": "VER",
+            "lemma": "be",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 143
+        },
+        {
+            "syncon": 89079,
+            "start": 1170,
+            "end": 1178,
+            "type": "ADJ",
+            "lemma": "allergic",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 143
+        },
+        {
+            "syncon": -1,
+            "start": 1179,
+            "end": 1181,
+            "type": "PRE",
+            "lemma": "to",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 144
+        },
+        {
+            "syncon": -1,
+            "start": 1181,
+            "end": 1182,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 3,
+            "sentence": 12,
+            "phrase": 145
+        },
+        {
+            "syncon": -1,
+            "start": 1183,
+            "end": 1184,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 147
+        },
+        {
+            "syncon": -1,
+            "start": 1185,
+            "end": 1189,
+            "type": "AUX",
+            "lemma": "have",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 148
+        },
+        {
+            "syncon": 69676,
+            "start": 1190,
+            "end": 1197,
+            "type": "VER",
+            "lemma": "enjoy",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 148
+        },
+        {
+            "syncon": -1,
+            "start": 1198,
+            "end": 1202,
+            "type": "ADJ",
+            "lemma": "your",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 149
+        },
+        {
+            "syncon": 34049,
+            "start": 1203,
+            "end": 1213,
+            "type": "NOU",
+            "lemma": "sandwich",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 149
+        },
+        {
+            "syncon": -1,
+            "start": 1214,
+            "end": 1217,
+            "type": "PRE",
+            "lemma": "for",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 150
+        },
+        {
+            "syncon": 83370,
+            "start": 1218,
+            "end": 1221,
+            "type": "ADJ",
+            "lemma": "any",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 150
+        },
+        {
+            "syncon": 62431,
+            "start": 1222,
+            "end": 1227,
+            "type": "NOU",
+            "lemma": "year",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 150
+        },
+        {
+            "syncon": 160458,
+            "start": 1228,
+            "end": 1231,
+            "type": "CON",
+            "lemma": "but",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 151
+        },
+        {
+            "syncon": -1,
+            "start": 1232,
+            "end": 1237,
+            "type": "PRE",
+            "lemma": "after",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 152
+        },
+        {
+            "syncon": -1,
+            "start": 1238,
+            "end": 1242,
+            "type": "PRO",
+            "lemma": "this",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 152
+        },
+        {
+            "syncon": -1,
+            "start": 1243,
+            "end": 1244,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 153
+        },
+        {
+            "syncon": 72504,
+            "start": 1245,
+            "end": 1247,
+            "type": "VER",
+            "lemma": "be",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 154
+        },
+        {
+            "syncon": 159490,
+            "start": 1248,
+            "end": 1251,
+            "type": "ADV",
+            "lemma": "not",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 154
+        },
+        {
+            "syncon": 77205,
+            "start": 1252,
+            "end": 1256,
+            "type": "ADJ",
+            "lemma": "sure",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 154
+        },
+        {
+            "syncon": 205308,
+            "start": 1257,
+            "end": 1261,
+            "type": "CON",
+            "lemma": "that",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 155
+        },
+        {
+            "syncon": -1,
+            "start": 1262,
+            "end": 1263,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 156
+        },
+        {
+            "syncon": -1,
+            "start": 1264,
+            "end": 1268,
+            "type": "AUX",
+            "lemma": "will",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 157
+        },
+        {
+            "syncon": -1,
+            "start": 1269,
+            "end": 1271,
+            "type": "AUX",
+            "lemma": "be",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 157
+        },
+        {
+            "syncon": 63687,
+            "start": 1272,
+            "end": 1282,
+            "type": "VER",
+            "lemma": "support",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 157
+        },
+        {
+            "syncon": -1,
+            "start": 1283,
+            "end": 1287,
+            "type": "ADJ",
+            "lemma": "this",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 158
+        },
+        {
+            "syncon": 4058,
+            "start": 1288,
+            "end": 1296,
+            "type": "NOU",
+            "lemma": "location",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 158
+        },
+        {
+            "syncon": -1,
+            "start": 1297,
+            "end": 1299,
+            "type": "CON",
+            "lemma": "or",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 159
+        },
+        {
+            "syncon": 134679,
+            "start": 1300,
+            "end": 1308,
+            "type": "NOU",
+            "lemma": "business",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 160
+        },
+        {
+            "syncon": 157875,
+            "start": 1309,
+            "end": 1314,
+            "type": "ADV",
+            "lemma": "again",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 161
+        },
+        {
+            "syncon": -1,
+            "start": 1314,
+            "end": 1315,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 13,
+            "phrase": 162
+        },
+        {
+            "syncon": -1,
+            "start": 1316,
+            "end": 1317,
+            "type": "PRO",
+            "lemma": "I",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 163
+        },
+        {
+            "syncon": 134747,
+            "start": 1318,
+            "end": 1322,
+            "type": "VER",
+            "lemma": "look",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 164
+        },
+        {
+            "syncon": 158119,
+            "start": 1323,
+            "end": 1330,
+            "type": "ADV",
+            "lemma": "forward",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 164
+        },
+        {
+            "syncon": -1,
+            "start": 1331,
+            "end": 1333,
+            "type": "PRE",
+            "lemma": "to",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 165
+        },
+        {
+            "syncon": 183217,
+            "start": 1334,
+            "end": 1346,
+            "type": "VER",
+            "lemma": "hear from",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 165,
+            "atoms": [
+                {
+                    "start": 1334,
+                    "end": 1341,
+                    "type": "VER",
+                    "lemma": "hear"
+                },
+                {
+                    "start": 1342,
+                    "end": 1346,
+                    "type": "PRE",
+                    "lemma": "from"
+                }
+            ]
+        },
+        {
+            "syncon": -1,
+            "start": 1347,
+            "end": 1350,
+            "type": "PRO",
+            "lemma": "you",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 166
+        },
+        {
+            "syncon": -1,
+            "start": 1351,
+            "end": 1354,
+            "type": "CON",
+            "lemma": "and",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 167
+        },
+        {
+            "syncon": -1,
+            "start": 1355,
+            "end": 1359,
+            "type": "ADJ",
+            "lemma": "your",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 168
+        },
+        {
+            "syncon": 84784,
+            "start": 1360,
+            "end": 1368,
+            "type": "ADJ",
+            "lemma": "proposed",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 168
+        },
+        {
+            "syncon": 29634,
+            "start": 1369,
+            "end": 1377,
+            "type": "NOU",
+            "lemma": "solution",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 168
+        },
+        {
+            "syncon": -1,
+            "start": 1378,
+            "end": 1380,
+            "type": "PRE",
+            "lemma": "to",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 169
+        },
+        {
+            "syncon": -1,
+            "start": 1381,
+            "end": 1385,
+            "type": "ADJ",
+            "lemma": "this",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 169
+        },
+        {
+            "syncon": 158059,
+            "start": 1386,
+            "end": 1390,
+            "type": "ADV",
+            "lemma": "very",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 169
+        },
+        {
+            "syncon": 76382,
+            "start": 1391,
+            "end": 1402,
+            "type": "ADJ",
+            "lemma": "unfortunate",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 169
+        },
+        {
+            "syncon": 3865,
+            "start": 1403,
+            "end": 1408,
+            "type": "NOU",
+            "lemma": "order",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 169
+        },
+        {
+            "syncon": -1,
+            "start": 1408,
+            "end": 1409,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 14,
+            "phrase": 170
+        },
+        {
+            "syncon": 66074,
+            "start": 1410,
+            "end": 1415,
+            "type": "VER",
+            "lemma": "thank",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 15,
+            "phrase": 171
+        },
+        {
+            "syncon": -1,
+            "start": 1416,
+            "end": 1419,
+            "type": "PRO",
+            "lemma": "you",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 15,
+            "phrase": 172
+        },
+        {
+            "syncon": -1,
+            "start": 1420,
+            "end": 1423,
+            "type": "CON",
+            "lemma": "for",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 15,
+            "phrase": 173
+        },
+        {
+            "syncon": -1,
+            "start": 1424,
+            "end": 1428,
+            "type": "ADJ",
+            "lemma": "your",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 15,
+            "phrase": 174
+        },
+        {
+            "syncon": 84447,
+            "start": 1429,
+            "end": 1435,
+            "type": "ADJ",
+            "lemma": "future",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 15,
+            "phrase": 174
+        },
+        {
+            "syncon": 22,
+            "start": 1436,
+            "end": 1443,
+            "type": "NOU",
+            "lemma": "effort",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 15,
+            "phrase": 174
+        },
+        {
+            "syncon": -1,
+            "start": 1444,
+            "end": 1446,
+            "type": "PRE",
+            "lemma": "to",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 15,
+            "phrase": 175
+        },
+        {
+            "syncon": 68964,
+            "start": 1447,
+            "end": 1451,
+            "type": "VER",
+            "lemma": "make",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 15,
+            "phrase": 175
+        },
+        {
+            "syncon": -1,
+            "start": 1452,
+            "end": 1456,
+            "type": "ADJ",
+            "lemma": "this",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 15,
+            "phrase": 176
+        },
+        {
+            "syncon": 127937,
+            "start": 1457,
+            "end": 1462,
+            "type": "NOU",
+            "lemma": "right",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 15,
+            "phrase": 176
+        },
+        {
+            "syncon": -1,
+            "start": 1462,
+            "end": 1463,
+            "type": "PNT",
+            "lemma": ".",
+            "pos": "_",
+            "paragraph": 4,
+            "sentence": 15,
+            "phrase": 177
+        },
+        {
+            "syncon": 159356,
+            "start": 1464,
+            "end": 1473,
+            "type": "ADV",
+            "lemma": "sincerely",
+            "pos": "_",
+            "paragraph": 5,
+            "sentence": 16,
+            "phrase": 179
+        },
+        {
+            "syncon": -1,
+            "start": 1473,
+            "end": 1474,
+            "type": "PNT",
+            "lemma": ",",
+            "pos": "_",
+            "paragraph": 5,
+            "sentence": 16,
+            "phrase": 180
+        },
+        {
+            "syncon": -1,
+            "vsyn": {
+                "id": -436166,
+                "parent": 73282
+            },
+            "start": 1475,
+            "end": 1489,
+            "type": "NPR.NPH",
+            "lemma": "Karen Thompson",
+            "pos": "_",
+            "paragraph": 6,
+            "sentence": 17,
+            "phrase": 182,
+            "atoms": [
+                {
+                    "start": 1475,
+                    "end": 1480,
+                    "type": "NPR.NPH",
+                    "lemma": "Karen"
+                },
+                {
+                    "start": 1481,
+                    "end": 1489,
+                    "type": "NPR.NPH",
+                    "lemma": "Thompson"
+                }
+            ]
+        }
+    ],
+    "mainSentences": [
+        {
+            "value": "I am writing this email to you because my chicken sandwich was made incorrectly based on my online order with complete disregard for my allergy.",
+            "score": 18.0,
+            "start": 11,
+            "end": 155
+        },
+        {
+            "value": "I picked up my sandwich and it had all the toppings on it including the other toppings that I had unclicked.",
+            "score": 12.6,
+            "start": 610,
+            "end": 718
+        },
+        {
+            "value": "On the notes I mentioned that I am extremely allergic to mushrooms and to please ensure that no mushrooms were on the sandwich.",
+            "score": 11.6,
+            "start": 377,
+            "end": 504
+        }
+    ],
+    "mainPhrases": [
+        {
+            "value": "mushroom option",
+            "score": 26.89,
+            "positions": [
+                {
+                    "start": 521,
+                    "end": 536
+                }
+            ]
+        },
+        {
+            "value": "Austin, tx location",
+            "score": 23.2,
+            "positions": [
+                {
+                    "start": 208,
+                    "end": 227
+                }
+            ]
+        },
+        {
+            "value": "be on the sandwich",
+            "score": 11.8,
+            "positions": [
+                {
+                    "start": 483,
+                    "end": 503
+                }
+            ]
+        },
+        {
+            "value": "order a chicken sandwich",
+            "score": 7.69,
+            "positions": [
+                {
+                    "start": 331,
+                    "end": 357
+                }
+            ]
+        },
+        {
+            "value": "comment section",
+            "score": 6.09,
+            "positions": [
+                {
+                    "start": 750,
+                    "end": 765
+                }
+            ]
+        }
+    ],
+    "mainLemmas": [
+        {
+            "value": "sandwich",
+            "score": 15.39,
+            "positions": [
+                {
+                    "start": 249,
+                    "end": 257
+                },
+                {
+                    "start": 495,
+                    "end": 503
+                },
+                {
+                    "start": 625,
+                    "end": 633
+                },
+                {
+                    "start": 816,
+                    "end": 824
+                },
+                {
+                    "start": 1203,
+                    "end": 1213
+                }
+            ]
+        },
+        {
+            "value": "chicken sandwich",
+            "score": 14.69,
+            "positions": [
+                {
+                    "start": 53,
+                    "end": 69
+                },
+                {
+                    "start": 341,
+                    "end": 357
+                }
+            ]
+        },
+        {
+            "value": "topping",
+            "score": 8.8,
+            "positions": [
+                {
+                    "start": 565,
+                    "end": 573
+                },
+                {
+                    "start": 653,
+                    "end": 661
+                },
+                {
+                    "start": 688,
+                    "end": 696
+                }
+            ]
+        },
+        {
+            "value": "allergy",
+            "score": 8.39,
+            "positions": [
+                {
+                    "start": 147,
+                    "end": 154
+                },
+                {
+                    "start": 874,
+                    "end": 883
+                }
+            ]
+        },
+        {
+            "value": "mushroom",
+            "score": 7.59,
+            "positions": [
+                {
+                    "start": 366,
+                    "end": 375
+                },
+                {
+                    "start": 434,
+                    "end": 443
+                },
+                {
+                    "start": 473,
+                    "end": 482
+                },
+                {
+                    "start": 521,
+                    "end": 529
+                },
+                {
+                    "start": 771,
+                    "end": 780
+                }
+            ]
+        },
+        {
+            "value": "Austin",
+            "score": 6.59,
+            "positions": [
+                {
+                    "start": 208,
+                    "end": 218
+                }
+            ]
+        },
+        {
+            "value": "email",
+            "score": 5.59,
+            "positions": [
+                {
+                    "start": 29,
+                    "end": 34
+                }
+            ]
+        }
+    ],
+    "mainSyncons": [
+        {
+            "syncon": 34049,
+            "lemma": "sandwich",
+            "score": 16.2,
+            "positions": [
+                {
+                    "start": 249,
+                    "end": 257
+                },
+                {
+                    "start": 495,
+                    "end": 503
+                },
+                {
+                    "start": 625,
+                    "end": 633
+                },
+                {
+                    "start": 816,
+                    "end": 824
+                },
+                {
+                    "start": 1203,
+                    "end": 1213
+                }
+            ]
+        },
+        {
+            "syncon": 34052,
+            "lemma": "chicken sandwich",
+            "score": 14.89,
+            "positions": [
+                {
+                    "start": 53,
+                    "end": 69
+                },
+                {
+                    "start": 341,
+                    "end": 357
+                }
+            ]
+        },
+        {
+            "syncon": 59630,
+            "lemma": "allergy",
+            "score": 8.89,
+            "positions": [
+                {
+                    "start": 147,
+                    "end": 154
+                },
+                {
+                    "start": 874,
+                    "end": 883
+                }
+            ]
+        },
+        {
+            "syncon": 33580,
+            "lemma": "topping",
+            "score": 8.8,
+            "positions": [
+                {
+                    "start": 565,
+                    "end": 573
+                },
+                {
+                    "start": 653,
+                    "end": 661
+                },
+                {
+                    "start": 688,
+                    "end": 696
+                }
+            ]
+        },
+        {
+            "syncon": 34263,
+            "lemma": "mushroom",
+            "score": 7.9,
+            "positions": [
+                {
+                    "start": 366,
+                    "end": 375
+                },
+                {
+                    "start": 473,
+                    "end": 482
+                },
+                {
+                    "start": 771,
+                    "end": 780
+                }
+            ]
+        },
+        {
+            "syncon": 198198,
+            "lemma": "Austin",
+            "score": 7.0,
+            "positions": [
+                {
+                    "start": 208,
+                    "end": 218
+                }
+            ]
+        },
+        {
+            "syncon": 97979,
+            "lemma": "email",
+            "score": 5.8,
+            "positions": [
+                {
+                    "start": 29,
+                    "end": 34
+                }
+            ]
+        },
+        {
+            "syncon": 53203,
+            "lemma": "mushroom",
+            "score": 5.19,
+            "positions": [
+                {
+                    "start": 434,
+                    "end": 443
+                },
+                {
+                    "start": 521,
+                    "end": 529
+                }
+            ]
+        },
+        {
+            "syncon": 57432,
+            "lemma": "case",
+            "score": 5.0,
+            "positions": [
+                {
+                    "start": 161,
+                    "end": 169
+                }
+            ]
+        },
+        {
+            "syncon": 28899,
+            "lemma": "application software",
+            "score": 4.3,
+            "positions": [
+                {
+                    "start": 544,
+                    "end": 547
+                },
+                {
+                    "start": 1061,
+                    "end": 1064
+                },
+                {
+                    "start": 1098,
+                    "end": 1101
+                },
+                {
+                    "start": 1102,
+                    "end": 1106
+                }
+            ]
+        },
+        {
+            "syncon": 25959,
+            "lemma": "neglect",
+            "score": 2.9,
+            "positions": [
+                {
+                    "start": 130,
+                    "end": 139
+                }
+            ]
+        },
+        {
+            "syncon": 26275,
+            "lemma": "option",
+            "score": 2.79,
+            "positions": [
+                {
+                    "start": 530,
+                    "end": 536
+                }
+            ]
+        },
+        {
+            "syncon": 22,
+            "lemma": "achievement",
+            "score": 2.59,
+            "positions": [
+                {
+                    "start": 1436,
+                    "end": 1443
+                }
+            ]
+        },
+        {
+            "syncon": 54994,
+            "lemma": "money",
+            "score": 2.59,
+            "positions": [
+                {
+                    "start": 1020,
+                    "end": 1025
+                }
+            ]
+        }
+    ],
+    "topics": [
+        {
+            "label": "gastronomy",
+            "id": 157,
+            "score": 4.59,
+            "winner": true
+        },
+        {
+            "label": "food",
+            "id": 8,
+            "score": 1.39,
+            "winner": false
+        },
+        {
+            "label": "the economy",
+            "id": 113,
+            "score": 0.8,
+            "winner": false
+        },
+        {
+            "label": "trade",
+            "id": 82,
+            "score": 0.6,
+            "winner": false
+        },
+        {
+            "label": "medicine",
+            "id": 225,
+            "score": 0.4,
+            "winner": false
+        },
+        {
+            "label": "software",
+            "id": 338,
+            "score": 0.3,
+            "winner": false
+        },
+        {
+            "label": "computer science",
+            "id": 197,
+            "score": 0.1,
+            "winner": false
+        }
+    ],
+    "entities": [
+        {
+            "type": "NPH",
+            "lemma": "Emma",
+            "syncon": -1,
+            "positions": [
+                {
+                    "start": 5,
+                    "end": 9
+                }
+            ]
+        },
+        {
+            "type": "NPH",
+            "lemma": "Karen Thompson",
+            "syncon": -1,
+            "positions": [
+                {
+                    "start": 1475,
+                    "end": 1489
+                }
+            ]
+        },
+        {
+            "type": "DAT",
+            "lemma": "Jan-9-2019",
+            "syncon": -1,
+            "positions": [
+                {
+                    "start": 182,
+                    "end": 199
+                }
+            ]
+        },
+        {
+            "type": "GEO",
+            "lemma": "Austin",
+            "syncon": 198198,
+            "positions": [
+                {
+                    "start": 208,
+                    "end": 218
+                }
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "namespace": "0",
+            "id": "01.00",
+            "label": "Complaint",
+            "hierarchy": [
+                "Complaint"
+            ],
+            "score": 102.0,
+            "frequency": 60.34,
+            "winner": true,
+            "positions": [
+                {
+                    "start": 79,
+                    "end": 90
+                },
+                {
+                    "start": 282,
+                    "end": 287
+                },
+                {
+                    "start": 860,
+                    "end": 868
+                },
+                {
+                    "start": 932,
+                    "end": 933
+                },
+                {
+                    "start": 934,
+                    "end": 940
+                },
+                {
+                    "start": 954,
+                    "end": 962
+                },
+                {
+                    "start": 1248,
+                    "end": 1251
+                },
+                {
+                    "start": 1252,
+                    "end": 1256
+                },
+                {
+                    "start": 1391,
+                    "end": 1402
+                }
+            ]
+        },
+        {
+            "namespace": "0",
+            "id": "03.00",
+            "label": "Support request",
+            "hierarchy": [
+                "Support request"
+            ],
+            "score": 67.0,
+            "frequency": 39.63,
+            "winner": true,
+            "positions": [
+                {
+                    "start": 451,
+                    "end": 457
+                },
+                {
+                    "start": 458,
+                    "end": 464
+                },
+                {
+                    "start": 1111,
+                    "end": 1118
+                },
+                {
+                    "start": 1272,
+                    "end": 1282
+                },
+                {
+                    "start": 1369,
+                    "end": 1377
+                },
+                {
+                    "start": 1410,
+                    "end": 1415
+                },
+                {
+                    "start": 1436,
+                    "end": 1443
+                }
+            ]
+        }
+    ],
+    "extractions": [
+        {
+            "namespace": "0",
+            "template": "People",
+            "fields": [
+                {
+                    "name": "Person",
+                    "value": "Emma",
+                    "positions": [
+                        {
+                            "start": 5,
+                            "end": 9
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "namespace": "0",
+            "template": "People",
+            "fields": [
+                {
+                    "name": "Person",
+                    "value": "Karen Thompson",
+                    "positions": [
+                        {
+                            "start": 1475,
+                            "end": 1489
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
