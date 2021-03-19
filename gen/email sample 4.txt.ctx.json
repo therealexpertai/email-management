@@ -1,0 +1,453 @@
+{
+  "document": {
+    "parse_time": 1.11,
+    "analysis_time": 1.92
+  },
+  "match_info": {
+    "pivot_attributes": {
+      "match": 181,
+      "match_with_combo": 0
+    },
+    "sequences": {
+      "match": 33
+    },
+    "rules": {
+      "match": 10,
+      "segment": [],
+      "categorization": [
+        {
+          "name": "01.00",
+          "label": "Complaint",
+          "score": 46,
+          "compound": 46,
+          "rank": 999,
+          "frequency": 23.23,
+          "winner": false,
+          "rules": [
+            {
+              "id": 70,
+              "label": "",
+              "score": 10,
+              "scope": [
+                {
+                  "begin": 445,
+                  "end": 521,
+                  "score": 10,
+                  "operands": [
+                    {
+                      "operand": 78,
+                      "begin": 458,
+                      "end": 461
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 74,
+              "label": "",
+              "score": 12,
+              "scope": [
+                {
+                  "begin": 13,
+                  "end": 168,
+                  "score": 12,
+                  "operands": [
+                    {
+                      "operand": 83,
+                      "begin": 114,
+                      "end": 116
+                    },
+                    {
+                      "operand": 83,
+                      "begin": 137,
+                      "end": 140
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 117,
+              "label": "",
+              "score": 12,
+              "scope": [
+                {
+                  "begin": 13,
+                  "end": 168,
+                  "score": 12,
+                  "operands": [
+                    {
+                      "operand": 129,
+                      "begin": 114,
+                      "end": 116
+                    },
+                    {
+                      "operand": 129,
+                      "begin": 137,
+                      "end": 140
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 149,
+              "label": "",
+              "score": 12,
+              "scope": [
+                {
+                  "begin": 13,
+                  "end": 168,
+                  "score": 12,
+                  "operands": [
+                    {
+                      "operand": 164,
+                      "begin": 114,
+                      "end": 116
+                    },
+                    {
+                      "operand": 164,
+                      "begin": 118,
+                      "end": 121
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "02.00",
+          "label": "Information request",
+          "score": 102,
+          "compound": 102,
+          "rank": 0,
+          "frequency": 51.51,
+          "winner": true,
+          "rules": [
+            {
+              "id": 167,
+              "label": "",
+              "score": 102,
+              "scope": [
+                {
+                  "begin": 316,
+                  "end": 380,
+                  "score": 51,
+                  "operands": [
+                    {
+                      "operand": 186,
+                      "begin": 316,
+                      "end": 317
+                    },
+                    {
+                      "operand": 186,
+                      "begin": 319,
+                      "end": 321
+                    },
+                    {
+                      "operand": 186,
+                      "begin": 323,
+                      "end": 327
+                    },
+                    {
+                      "operand": 186,
+                      "begin": 329,
+                      "end": 335
+                    },
+                    {
+                      "operand": 187,
+                      "begin": 339,
+                      "end": 342
+                    }
+                  ]
+                },
+                {
+                  "begin": 316,
+                  "end": 380,
+                  "score": 51,
+                  "operands": [
+                    {
+                      "operand": 186,
+                      "begin": 316,
+                      "end": 317
+                    },
+                    {
+                      "operand": 186,
+                      "begin": 319,
+                      "end": 321
+                    },
+                    {
+                      "operand": 186,
+                      "begin": 323,
+                      "end": 327
+                    },
+                    {
+                      "operand": 186,
+                      "begin": 329,
+                      "end": 335
+                    },
+                    {
+                      "operand": 187,
+                      "begin": 351,
+                      "end": 357
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "03.00",
+          "label": "Support request",
+          "score": 50,
+          "compound": 50,
+          "rank": 1,
+          "frequency": 25.25,
+          "winner": true,
+          "rules": [
+            {
+              "id": 1,
+              "label": "",
+              "score": 10,
+              "scope": [
+                {
+                  "begin": 523,
+                  "end": 616,
+                  "score": 10,
+                  "operands": [
+                    {
+                      "operand": 1,
+                      "begin": 550,
+                      "end": 553
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 22,
+              "label": "",
+              "score": 40,
+              "scope": [
+                {
+                  "begin": 523,
+                  "end": 616,
+                  "score": 40,
+                  "operands": [
+                    {
+                      "operand": 24,
+                      "begin": 523,
+                      "end": 527
+                    },
+                    {
+                      "operand": 24,
+                      "begin": 550,
+                      "end": 553
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "extraction": [
+        {
+          "template": "Companies",
+          "fields": [
+            {
+              "field": "Company",
+              "value": "Pizza Technologies",
+              "instance": [
+                {
+                  "group_by": 0,
+                  "text": "Pizza Technologies",
+                  "rule_details": [
+                    {
+                      "id": 171,
+                      "label": ""
+                    }
+                  ],
+                  "pos": 83,
+                  "len": 18,
+                  "snt": 2,
+                  "snt_begin": 13,
+                  "snt_end": 168,
+                  "syncon": -1,
+                  "ancestor": 104830453
+                }
+              ]
+            }
+          ],
+          "instances": 0
+        },
+        {
+          "template": "People",
+          "fields": [
+            {
+              "field": "Person",
+              "value": "Amanda",
+              "instance": [
+                {
+                  "group_by": 0,
+                  "text": "Amanda",
+                  "rule_details": [
+                    {
+                      "id": 170,
+                      "label": ""
+                    }
+                  ],
+                  "pos": 5,
+                  "len": 6,
+                  "snt": 1,
+                  "snt_begin": 0,
+                  "snt_end": 11,
+                  "syncon": -1,
+                  "ancestor": 78360
+                }
+              ]
+            }
+          ],
+          "instances": 0
+        },
+        {
+          "template": "People",
+          "fields": [
+            {
+              "field": "Person",
+              "value": "Haley Herman",
+              "instance": [
+                {
+                  "group_by": 1000000,
+                  "text": "Haley Herman",
+                  "rule_details": [
+                    {
+                      "id": 170,
+                      "label": ""
+                    }
+                  ],
+                  "pos": 629,
+                  "len": 12,
+                  "snt": 10,
+                  "snt_begin": 629,
+                  "snt_end": 640,
+                  "syncon": -1,
+                  "ancestor": 100215627
+                }
+              ]
+            }
+          ],
+          "instances": 0
+        },
+        {
+          "template": "Products",
+          "fields": [
+            {
+              "field": "Product",
+              "value": "HB12S",
+              "instance": [
+                {
+                  "group_by": 0,
+                  "text": "HB12S",
+                  "rule_details": [
+                    {
+                      "id": 178,
+                      "label": ""
+                    }
+                  ],
+                  "pos": 56,
+                  "len": 5,
+                  "snt": 2,
+                  "snt_begin": 13,
+                  "snt_end": 168,
+                  "syncon": -1,
+                  "ancestor": 101501212
+                }
+              ]
+            }
+          ],
+          "instances": 0
+        }
+      ],
+      "tagger": []
+    },
+    "checksum": "da0ebd8d"
+  },
+  "script_info": {
+    "onTagger": []
+  },
+  "annotation": [
+    {
+      "key": "extraction",
+      "data": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "detail": [
+          {
+            "template": "Companies",
+            "field": "Company",
+            "value": "Pizza Technologies",
+            "start": 83,
+            "end": 101,
+            "result": "tp"
+          },
+          {
+            "template": "People",
+            "field": "Person",
+            "value": "Amanda",
+            "start": 5,
+            "end": 11,
+            "result": "tp"
+          },
+          {
+            "template": "People",
+            "field": "Person",
+            "value": "Haley Herman",
+            "start": 629,
+            "end": 641,
+            "result": "tp"
+          },
+          {
+            "template": "Products",
+            "field": "Product",
+            "value": "HB12S",
+            "start": 56,
+            "end": 61,
+            "result": "tp"
+          }
+        ]
+      }
+    },
+    {
+      "key": "categorization",
+      "data": {
+        "accuracy": 0.5,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.66,
+        "detail": [
+          {
+            "category": "02.00",
+            "start": 0,
+            "end": 0,
+            "result": "tp"
+          },
+          {
+            "category": "03.00",
+            "start": 0,
+            "end": 0,
+            "result": "fp"
+          }
+        ]
+      }
+    }
+  ],
+  "properties": {
+    "ANNOTATIONS_MD5": "58BBB48F98BF6B6640AD6D960941C087"
+  }
+}
