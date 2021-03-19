@@ -96,4 +96,4 @@ If you make any edits to the project and want to try your new model out, all you
 2.	repeat the steps above from 1 to 4 and enjoy your updated API
 
 
-If you want to customize the api, head over to https://docs.expert.ai/edgenlapi/latest/reference/output/linguistic-analysis/ and add more in-built API features!
+If you want to customize the API, head over to https://docs.expert.ai/edgenlapi/latest/reference/output/linguistic-analysis/ and add more in-built API features!
