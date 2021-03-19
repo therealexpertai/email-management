@@ -36,11 +36,50 @@ For the data mining tasks, I employed the NER capabilities of expert.ai to activ
 
 In the Studio project, you will find rules examples for both the Topic Modelling and heuristics based approaches, and the data mining tasks (extractions). I labelled all rules to help you discriminating the two approaches providing examples for every single linguistic condition.
 
+-----------------
+FILE DESCRIPTION |
+-----------------
+
+- "main.cr" --> this file is used to manage and import all the other rule files and configuration files. It only contains IMPORT statements.
+
+- "config.cr" --> the configuration file contains the definitions for SECTIONS, SEGMENTS as well as the extraction TEMPLATES and FIELDS.
+
+- "complaint.cr" --> contains rules for category "complaint". E-mails are classified as "complaint" if their content shows any form of criticism, claims, unsatisfaction, protest or accusation.
+
+- "people.cr" --> contains rules performing people names extraction.
+
+- "companies.cr" --> contains rules performing companies extraction.
+
+- "products.cr" --> contains rules performing products names extraction.
+
+- "inforequest.cr" --> contains rules for category "info request". E-mails are classified as " info request " if they contain requests for information and other general inquiries. 
+
+- "support.cr" --> contains rules for category "support". E-mails are classified as "support" if their content shows any form of request for assistance.
+
+- "main.jr" --> in this file different functions are activated, performing operations of pre- and post-processing of the documents:
+
+	ONPREPARE: modifies the text before the semantic analysis and the application of rules.
+	ONTAGGER: applies tags to certain entities in order to improve disambiguation.
+	ONFINALIZE: modifies the standard json output.
+	ONCATEGORIZER: applies post-processing logic to the categorization module.
+	
+The ONCATEGORIZER function is used to perform the following actions:
+
+	function onCategorizer() {
+		var RESULTS = CLONE(ALL); --> Collects all categorization results.
+
+		RESULTS = FILTER(RESULTS, [30]); --> In the event of a document being labelled with more than one category, this function filters out all categorization results which score is less than 30% of that of the highest scoring category. For instance: if a category’s score is equal to 50, all other categories with a score below 15 will be filtered out.
+
+		WINNERS = CLONE(RESULTS); --> Provides the final categorization results coming out from the filtering function.
+		}
+
 --------------
 WHAT YOU NEED 
 --------------
 
 -	expert.ai Studio (https://developer.expert.ai/)
+
+-	expert.ai Edge NL API python SDK (https://github.com/therealexpertai/nlapi-python)
 
 -	python v3.5 or above (https://www.python.org/downloads/)
 
