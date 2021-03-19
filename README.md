@@ -1,4 +1,4 @@
-# email-management
+# Email-Management
 ---------------------
 SCOPE OF THE PROJECT 
 ---------------------
