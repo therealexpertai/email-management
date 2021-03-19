@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOMAINTREE>
+    <DOMAIN NAME="EMLMNGMNT" LABEL="Email Management Taxonomy">
+        <DOMAIN NAME="01.00" LABEL="Complaint"/>
+        <DOMAIN NAME="02.00" LABEL="Information request"/>
+        <DOMAIN NAME="03.00" LABEL="Support request"/>
+    </DOMAIN>
+</DOMAINTREE>
