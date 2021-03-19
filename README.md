@@ -36,8 +36,26 @@ For the data mining tasks, I employed the NER capabilities of expert.ai to activ
 
 In the Studio project, you will find rules examples for both the Topic Modelling and heuristics based approaches, and the data mining tasks (extractions). I labelled all rules to help you discriminating the two approaches providing examples for every single linguistic condition.
 
+---------
+CONTENT 
+---------
+
+The project features the following files in the "rules" folder: 
+
+main.cr
+main.jr
+config.cr
+complaint.cr
+people.cr
+products.cr
+companies.cr
+inforequest.cr
+support.cr
+
+The first three files are configuration files, while the rest of the files contain rules for each different node of the taxonomy and each extraction field.
+
 -----------------
-FILE DESCRIPTION |
+FILE DESCRIPTION 
 -----------------
 
 - "main.cr" --> this file is used to manage and import all the other rule files and configuration files. It only contains IMPORT statements.
