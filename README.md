@@ -1,7 +1,7 @@
 # Email-Management
 
 ---------------------
-SCOPE OF THE PROJECT |
+SCOPE OF THE PROJECT 
 ---------------------
 
 This NLU model project processes e-mails classifying them according to a specific taxonomy that was designed to identify the sender's intention to complain about a service or a product and/or ask for support or information. 
@@ -19,7 +19,7 @@ The documents you will find in this project are brief anonymous samples allowing
 Feel free to run analyses on longer documents and further develop the module to broaden its capabilities. This module is meant to provide you with a solid starting point as you look into different approaches for E-Mail Management using expert.ai. You can customize the project by adding your own categories and extractions classes or integrating more rules to make it perfect.
 
 ------------------------------------
-METHOD & DEVELOPMENT LOGIC         |
+METHOD & DEVELOPMENT LOGIC         
 ------------------------------------
 
 The classification algorithm follows a Topic Modeling approach and an heuristics-based approach relying on language structure.
@@ -37,7 +37,7 @@ For the data mining tasks, I employed the NER capabilities of expert.ai to activ
 In the Studio project, you will find rules examples for both the Topic Modelling and heuristics based approaches, and the data mining tasks (extractions). I labelled all rules to help you discriminating the two approaches providing examples for every single linguistic condition.
 
 --------------
-WHAT YOU NEED |
+WHAT YOU NEED 
 --------------
 
 -	expert.ai Studio (https://developer.expert.ai/)
@@ -45,7 +45,7 @@ WHAT YOU NEED |
 -	python v3.5 or above (https://www.python.org/downloads/)
 
 -----------------------
-HOW TO RUN THE PROJECT |
+HOW TO RUN THE PROJECT 
 -----------------------
 
 TUTORIAL
@@ -65,7 +65,7 @@ TUTORIAL
 7.	Enjoy and contribute! ;)
 
 -------------------
-HOW TO TRY THE API |
+HOW TO TRY THE API 
 -------------------
 
 TUTORIAL
