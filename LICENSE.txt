@@ -1,0 +1,10 @@
+INTELLECTUAL PROPERTY NOTICE
+
+All files in this archive are the intellectual property of Expert System, with
+the sole exception of the language model source files which are the property of
+their author.
+It is forbidden to reverse engineer, reproduce, use or otherwise
+make available any of the aforementioned files in any manner whatsoever or in
+any way use them for a purpose different than their intended use without the
+express written permission of Expert System or save where otherwise permitted
+under applicable laws.
