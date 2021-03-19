@@ -1,0 +1,4 @@
+Dear Customer Support,
+I am trying to import a file into our database with the latest version of the Synthe app of the Stay Organized Co suite. I am operating on a Windows 10. When I go to import it, it says "file is not in import form". I am not sure what that means or how to fix it. Can excel files not be imported anymore? What form should the excel file be in to upload it into the database? Please let me know what steps I should be taking to upload files. Thank you!
+Sincerely,
+Casey Miller
