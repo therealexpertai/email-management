@@ -1,0 +1,7 @@
+# Default ignored files
+/gen/
+/package/
+/reports/
+.idea/workspace.xml
+.idea/misc.xml
+/rules/dic
