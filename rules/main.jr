@@ -1,0 +1,41 @@
+function shutdown() {
+
+}
+
+function initialize(cmdline) {
+
+
+	return true;
+}
+
+// enable this function if you need to modify text
+/*
+function onPrepare(text) {
+
+    return text;
+}
+*/
+
+// enable this function if you need to add tags to the disambiguation
+/*
+function onTagger() {
+}
+*/
+
+// enable this function if you need to modify standard json output or add custom output
+/*
+function onFinalize(result) {
+    
+    return result;
+}
+*/
+
+// enable this function if you need to apply language "D"
+
+function onCategorizer() {
+    var RESULTS = CLONE(ALL);
+
+    RESULTS = FILTER(RESULTS, [30]);
+
+    WINNERS = CLONE(RESULTS);
+}
