@@ -1,5 +1,7 @@
 # Email-Management
 
+EDGE NL API download: https://download.expert.ai/email-management-edgeNLAPI.zip
+
 ---------------------
 SCOPE OF THE PROJECT 
 ---------------------
