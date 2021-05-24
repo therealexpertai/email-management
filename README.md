@@ -1,6 +1,8 @@
 # Email-Management
 
-EDGE NL API download: https://sre-academy-prod-20210330154655023000000002.s3-eu-west-1.amazonaws.com/email-management-edgeNLAPI.zip 
+Full EDGE NL API- based solution (https://download.expert.ai/email-management-edgeNLAPI.zip)[download]
+
+https://sre-academy-prod-20210330154655023000000002.s3-eu-west-1.amazonaws.com/email-management-edgeNLAPI.zip 
 
 ---------------------
 SCOPE OF THE PROJECT 
