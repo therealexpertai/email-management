@@ -99,7 +99,7 @@ WHAT YOU NEED
 
 -	expert.ai Studio (https://developer.expert.ai/)
 
--	expert.ai Edge NL API python SDK (https://github.com/therealexpertai/nlapi-python)
+-	expert.ai Natural Language API client for Python (https://github.com/therealexpertai/nlapi-python)
 
 -	python v3.5 or above (https://www.python.org/downloads/)
 
